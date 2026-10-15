@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec python3 /home/sak/hospital-search-hdfc-care/hospital_search.py "$@"
