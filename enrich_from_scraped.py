@@ -59,59 +59,84 @@ def extract_keywords(name: str) -> set:
     return {w for w in words if w not in stops and len(w) > 2}
 
 
-def calculate_match_score(existing_name: str, scraped_name: str, 
+def validate_area_match(existing_area: str, scraped_city: str, scraped_neighborhood: str) -> bool:
+    """
+    Validate that the scraped hospital is in the same area as the original.
+
+    Returns True if areas match, False otherwise.
+    """
+    if not existing_area:
+        # No area info in original, skip this check
+        return True
+
+    area_norm = normalize_name(existing_area)
+
+    # Check scraped neighborhood first (more specific)
+    if scraped_neighborhood:
+        neigh_norm = normalize_name(scraped_neighborhood)
+        # Area should be contained in neighborhood OR neighborhood in area
+        if area_norm in neigh_norm or neigh_norm in area_norm:
+            return True
+
+    # Check scraped city (less specific, but still useful)
+    if scraped_city:
+        city_norm = normalize_name(scraped_city)
+        # For Hyderabad area hospitals, city should be Hyderabad or Secunderabad
+        if 'hyderabad' in area_norm and 'hyderabad' in city_norm:
+            return True
+        if 'secunderabad' in area_norm and 'secunderabad' in city_norm:
+            return True
+
+    # If we got here, areas don't match
+    return False
+
+
+def calculate_match_score(existing_name: str, scraped_name: str,
                           existing_area: str = None, scraped_city: str = None,
-                          scraped_neighborhood: str = None) -> float:
+                          scraped_neighborhood: str = None) -> tuple[float, bool]:
     """
     Calculate match score between existing and scraped hospital names.
-    
-    Returns 0.0 to 1.0, where 1.0 is perfect match.
+
+    Returns: (score, area_valid) where area_valid indicates if areas match.
     """
     # Skip generic titles
     if is_generic_title(scraped_name):
-        return 0.0
-    
+        return 0.0, False
+
     n1 = normalize_name(existing_name)
     n2 = normalize_name(scraped_name)
-    
+
     # Perfect match
     if n1 == n2:
-        return 1.0
-    
+        area_valid = validate_area_match(existing_area, scraped_city, scraped_neighborhood)
+        return 1.0, area_valid
+
     # Check if one contains the other (with minimum length requirement)
     if len(n1) > 5 and n1 in n2:
-        base_score = 0.85
+        base_score = 0.9
     elif len(n2) > 5 and n2 in n1:
         base_score = 0.85
     else:
         # Fuzzy match
         base_score = SequenceMatcher(None, n1, n2).ratio()
-    
-    # Keyword overlap bonus
+
+    # Keyword overlap bonus (use min to avoid penalizing extra keywords)
     keywords1 = extract_keywords(existing_name)
     keywords2 = extract_keywords(scraped_name)
-    
+
     if keywords1 and keywords2:
-        overlap = len(keywords1 & keywords2) / max(len(keywords1), len(keywords2))
+        # Use min to avoid penalizing scraped names with extra keywords
+        overlap = len(keywords1 & keywords2) / min(len(keywords1), len(keywords2))
         base_score = base_score * 0.7 + overlap * 0.3
-    
-    # City/area validation bonus
-    if existing_area:
-        area_norm = normalize_name(existing_area)
-        
-        # Check scraped city
-        if scraped_city:
-            city_norm = normalize_name(scraped_city)
-            if area_norm in city_norm or city_norm in area_norm:
-                base_score = min(base_score + 0.2, 1.0)
-        
-        # Check scraped neighborhood
-        if scraped_neighborhood:
-            neigh_norm = normalize_name(scraped_neighborhood)
-            if area_norm in neigh_norm or neigh_norm in area_norm:
-                base_score = min(base_score + 0.25, 1.0)
-    
-    return base_score
+
+    # Area validation
+    area_valid = validate_area_match(existing_area, scraped_city, scraped_neighborhood)
+
+    # If areas don't match, drastically reduce score
+    if not area_valid:
+        base_score *= 0.5
+
+    return min(base_score, 1.0), area_valid
 
 
 def extract_hours(opening_hours: list) -> str | None:
@@ -137,89 +162,96 @@ def extract_hours(opening_hours: list) -> str | None:
 def match_hospital(existing: dict, scraped_list: list) -> tuple[dict | None, float]:
     """
     Find best match for an existing hospital in scraped data.
-    
+
     Returns: (scraped_entry, similarity_score) or (None, 0.0)
+    Only returns matches with score >= 0.85 AND area validation passed.
     """
     best_match = None
     best_score = 0.0
-    
+
     existing_name = existing.get('hospital_name', '')
     existing_area = existing.get('area', '')
-    
+
     for scraped in scraped_list:
         # Skip generic titles
         if is_generic_title(scraped.get('title', '')):
             continue
-            
+
         scraped_name = scraped.get('title', '')
         scraped_city = scraped.get('city') or ''
         scraped_neighborhood = scraped.get('neighborhood') or ''
-        
-        score = calculate_match_score(
+
+        score, area_valid = calculate_match_score(
             existing_name, scraped_name,
             existing_area, scraped_city, scraped_neighborhood
         )
-        
-        if score > best_score:
+
+        # Only consider matches with area validation and high score
+        if area_valid and score > best_score:
             best_score = score
             best_match = scraped
-    
-    # Only return match if score is high enough
-    if best_score >= 0.65:
+
+    # Only return match if score is high enough (0.85 threshold)
+    if best_score >= 0.85:
         return best_match, best_score
-    
+
     return None, 0.0
 
 
 def enrich_hospital(existing: dict, scraped: dict) -> dict:
-    """Merge scraped data into existing hospital record."""
+    """Merge scraped data into existing hospital record.
+
+    ONLY adds fields that don't already exist in the original.
+    Original data is the source of truth.
+    """
     enriched = existing.copy()
-    
-    # Add scraped fields (only if not already present)
-    if 'address' not in enriched or not enriched.get('address'):
+
+    # Add scraped fields (only if not already present in original)
+    if 'address' not in existing or not existing.get('address'):
         enriched['address'] = scraped.get('address')
-    
-    if 'phone' not in enriched or not enriched.get('phone'):
+
+    if 'phone' not in existing or not existing.get('phone'):
         phone = scraped.get('phone')
         if phone:
             enriched['phone'] = phone
-    
-    if 'website' not in enriched or not enriched.get('website'):
+
+    if 'website' not in existing or not existing.get('website'):
         enriched['website'] = scraped.get('url')
-    
-    if 'rating' not in enriched or not enriched.get('rating'):
+
+    if 'rating' not in existing or not existing.get('rating'):
         score = scraped.get('totalScore')
         if score:
             enriched['rating'] = str(score)
-    
-    if 'review_count' not in enriched:
+
+    if 'review_count' not in existing:
         reviews = scraped.get('reviewsCount')
         if reviews:
             enriched['review_count'] = reviews
-    
-    # Add hours
+
+    # Add hours (only if not already present)
     opening_hours = scraped.get('openingHours', [])
-    if opening_hours:
+    if opening_hours and 'hours' not in existing:
         hours = extract_hours(opening_hours)
-        if hours and 'hours' not in enriched:
+        if hours:
             enriched['hours'] = hours
-    
-    # Add location
+
+    # Add location (only if not already present)
     location = scraped.get('location', {})
-    if location:
+    if location and 'lat' not in existing:
         enriched['lat'] = location.get('lat')
         enriched['lng'] = location.get('lng')
-    
+
     # Add categories/specialty if missing
-    if 'specialty' not in enriched or not enriched.get('specialty'):
+    if 'specialty' not in existing or not existing.get('specialty'):
         categories = scraped.get('categories', [])
         if categories:
             enriched['specialty'] = ', '.join(categories)
-    
-    # Add source info
+
+    # Add source info for tracking
     enriched['scraped_source'] = 'google_maps'
     enriched['scraped_at'] = scraped.get('scrapedAt')
-    
+    enriched['match_score'] = 1.0  # Will be updated by caller
+
     return enriched
 
 
@@ -242,20 +274,21 @@ def main():
     matched = 0
     high_confidence = 0
     enriched_hospitals = []
-    
+
     for hospital in hospitals:
         scraped_match, score = match_hospital(hospital, valid_scraped)
-        
+
         if scraped_match:
             matched += 1
             enriched = enrich_hospital(hospital, scraped_match)
-            
-            if score >= 0.85:
+            enriched['match_score'] = score  # Override the placeholder
+
+            if score >= 0.9:
                 high_confidence += 1
-            
+
             enriched_hospitals.append(enriched)
         else:
-            # No match found, keep original
+            # No match found, keep original unchanged
             enriched_hospitals.append(hospital)
     
     print(f"\nMatching results:")
