@@ -91,6 +91,23 @@ def validate_area_match(existing_area: str, scraped_city: str, scraped_neighborh
     return False
 
 
+def calculate_keyword_overlap(existing_name: str, scraped_name: str) -> float:
+    """
+    Calculate keyword overlap between two names.
+
+    Returns 0.0 to 1.0, where 1.0 is perfect keyword match.
+    """
+    keywords1 = extract_keywords(existing_name)
+    keywords2 = extract_keywords(scraped_name)
+
+    if not keywords1 or not keywords2:
+        return 0.0
+
+    # Use min to avoid penalizing scraped names with extra keywords
+    overlap = len(keywords1 & keywords2) / min(len(keywords1), len(keywords2))
+    return overlap
+
+
 def calculate_match_score(existing_name: str, scraped_name: str,
                           existing_area: str = None, scraped_city: str = None,
                           scraped_neighborhood: str = None) -> tuple[float, bool]:
@@ -98,6 +115,7 @@ def calculate_match_score(existing_name: str, scraped_name: str,
     Calculate match score between existing and scraped hospital names.
 
     Returns: (score, area_valid) where area_valid indicates if areas match.
+    Uses keyword overlap as primary signal, area validation as secondary.
     """
     # Skip generic titles
     if is_generic_title(scraped_name):
@@ -120,20 +138,26 @@ def calculate_match_score(existing_name: str, scraped_name: str,
         # Fuzzy match
         base_score = SequenceMatcher(None, n1, n2).ratio()
 
-    # Keyword overlap bonus (use min to avoid penalizing extra keywords)
-    keywords1 = extract_keywords(existing_name)
-    keywords2 = extract_keywords(scraped_name)
+    # Keyword overlap is the PRIMARY signal
+    keyword_overlap = calculate_keyword_overlap(existing_name, scraped_name)
 
-    if keywords1 and keywords2:
-        # Use min to avoid penalizing scraped names with extra keywords
-        overlap = len(keywords1 & keywords2) / min(len(keywords1), len(keywords2))
-        base_score = base_score * 0.7 + overlap * 0.3
+    # If keywords match well, accept even if area is uncertain
+    if keyword_overlap >= 0.7:
+        # Strong keyword match - accept with high confidence
+        area_valid = validate_area_match(existing_area, scraped_city, scraped_neighborhood)
+        # Bonus for area match, but not required
+        if area_valid:
+            base_score = min(base_score + 0.1, 1.0)
+        return max(base_score, 0.85), area_valid
 
-    # Area validation
+    # If keywords don't match well, use area validation as fallback
     area_valid = validate_area_match(existing_area, scraped_city, scraped_neighborhood)
 
-    # If areas don't match, drastically reduce score
-    if not area_valid:
+    # Combine keyword and area signals
+    if area_valid:
+        base_score = base_score * 0.6 + keyword_overlap * 0.4
+    else:
+        # No area match and weak keywords - low confidence
         base_score *= 0.5
 
     return min(base_score, 1.0), area_valid
@@ -164,7 +188,7 @@ def match_hospital(existing: dict, scraped_list: list) -> tuple[dict | None, flo
     Find best match for an existing hospital in scraped data.
 
     Returns: (scraped_entry, similarity_score) or (None, 0.0)
-    Only returns matches with score >= 0.85 AND area validation passed.
+    Uses keyword overlap as primary signal, area validation as secondary.
     """
     best_match = None
     best_score = 0.0
@@ -186,13 +210,13 @@ def match_hospital(existing: dict, scraped_list: list) -> tuple[dict | None, flo
             existing_area, scraped_city, scraped_neighborhood
         )
 
-        # Only consider matches with area validation and high score
-        if area_valid and score > best_score:
+        # Accept matches with score >= 0.7 (lower threshold due to keyword focus)
+        if score > best_score:
             best_score = score
             best_match = scraped
 
-    # Only return match if score is high enough (0.85 threshold)
-    if best_score >= 0.85:
+    # Only return match if score is high enough (0.7 threshold)
+    if best_score >= 0.7:
         return best_match, best_score
 
     return None, 0.0
@@ -270,23 +294,33 @@ def main():
     valid_scraped = [s for s in scraped if not is_generic_title(s.get('title', ''))]
     print(f"Valid scraped entries (after filtering): {len(valid_scraped)}")
     
-    # Match and enrich
+    # Match and enrich (with deduplication)
     matched = 0
     high_confidence = 0
     enriched_hospitals = []
+    used_scraped_ids = set()  # Track which scraped entries have been used
 
     for hospital in hospitals:
         scraped_match, score = match_hospital(hospital, valid_scraped)
 
         if scraped_match:
-            matched += 1
-            enriched = enrich_hospital(hospital, scraped_match)
-            enriched['match_score'] = score  # Override the placeholder
+            # Check if this scraped entry is already used
+            scraped_id = scraped_match.get('placeId') or id(scraped_match)
 
-            if score >= 0.9:
-                high_confidence += 1
+            if scraped_id in used_scraped_ids:
+                # This scraped entry is already matched to another hospital
+                # Skip this match to avoid duplicate addresses
+                enriched_hospitals.append(hospital)
+            else:
+                matched += 1
+                enriched = enrich_hospital(hospital, scraped_match)
+                enriched['match_score'] = score  # Override the placeholder
+                used_scraped_ids.add(scraped_id)
 
-            enriched_hospitals.append(enriched)
+                if score >= 0.85:
+                    high_confidence += 1
+
+                enriched_hospitals.append(enriched)
         else:
             # No match found, keep original unchanged
             enriched_hospitals.append(hospital)

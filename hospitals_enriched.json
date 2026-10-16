@@ -47,7 +47,16 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Jagadamba Enclave, Main Rd, Shri Jagadamba Enclave, Bhimrao Nagar, Alwal, Hyderabad, Secunderabad, Telangana 500010, India",
+    "phone": "+91 93916 89533",
+    "website": "https://www.google.com/maps/search/?api=1&query=Health%20Care%20Hospital&query_place_id=ChIJVVVV8cOayzsRAKJvCqMbw6M",
+    "hours": "9\u202fAM to 9\u202fPM",
+    "lat": 17.5044324,
+    "lng": 78.5047291,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:07.720Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Mythri Hospital (A Division Of Surya Prakash Hospitals & Diagnostics Pvt Ltd)",
@@ -75,7 +84,7 @@
     "lng": 78.4292547,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:18.350Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Olive Hospitals Pvt Ltd.",
@@ -92,7 +101,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Building No. 12-2-718/3,4,5, Nanalnagar \u2018X\u2019 Road, Mehdipatnam, Hyderabad, Telangana 500006, India",
+    "phone": "+91 40 4049 9500",
+    "website": "https://www.google.com/maps/search/?api=1&query=Olive%20Hospitals&query_place_id=ChIJwyvJTuKWyzsR6WLjAjWd_cw",
+    "rating": "4.5",
+    "review_count": 5530,
+    "hours": "Open 24 hours",
+    "lat": 17.3936095,
+    "lng": 78.4271174,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.349Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Orient Eye Hospital",
@@ -109,7 +129,18 @@
     "final_score": 5.8,
     "full_address": "Beside: Hdfc Bank, Opposite: Bapughat, Langar House-500008",
     "is_recommended": false,
-    "num_reviews": "714.0"
+    "num_reviews": "714.0",
+    "address": "2nd Floor, opposite Bapu ghat, beside HDFC bank, Bapu Nagar, Langar Houz, Hyderabad, Telangana 500008, India",
+    "phone": "+91 96405 21946",
+    "website": "https://www.google.com/maps/search/?api=1&query=Orient%20Eye%20Hospital%20Langar%20Houz&query_place_id=ChIJL63hrHqXyzsRQWr72LOgtFs",
+    "rating": "5",
+    "review_count": 29,
+    "hours": "10\u202fAM to 8\u202fPM",
+    "lat": 17.3731959,
+    "lng": 78.4128596,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:43.932Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Premier Hospital Pvt. Ltd.",
@@ -126,7 +157,18 @@
     "final_score": 5.64,
     "full_address": "Khader Bagh Road, Nanal Nagar X Roads, Nanal Nagar-Toli Chowki, Hyderabad - 500008",
     "is_recommended": false,
-    "num_reviews": "5k"
+    "num_reviews": "5k",
+    "address": "12-2-718, Khader Bagh Rd, Padmanabha Nagar, Nanal Nagar, Gudimalkapur, Hyderabad, Telangana 500008, India",
+    "phone": "+91 83747 18100",
+    "website": "https://www.google.com/maps/search/?api=1&query=Premier%20Hospital&query_place_id=ChIJAQAAAB-XyzsR0B6Me7SZ3eY",
+    "rating": "4.4",
+    "review_count": 3262,
+    "hours": "Open 24 hours",
+    "lat": 17.3917011,
+    "lng": 78.4269646,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:46:57.177Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Vasan Eye Care Hospital",
@@ -143,7 +185,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "First Floor, Metro Station, Balanagar Mandal, Door No 2-22-298, PNR Empire, above Lalitha Jewellers, Kukatpally, Hyderabad, Telangana 500072, India",
+    "phone": "+91 1800 571 2222",
+    "website": "https://www.google.com/maps/search/?api=1&query=Vasan%20Eye%20Care%20Hospital%20-%20(Kukatpally%2C%20Hyderabad)&query_place_id=ChIJSyZmL6mRyzsRUTqeiBVmu4w",
+    "rating": "4.7",
+    "review_count": 538,
+    "hours": "9\u202fAM to 8\u202fPM",
+    "lat": 17.4953165,
+    "lng": 78.3997285,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:24.164Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Care Hospital",
@@ -171,7 +224,7 @@
     "lng": 78.4502437,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:18.349Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Medwin Hospital",
@@ -188,7 +241,16 @@
     "final_score": 5.7,
     "full_address": "Nampally, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "10.0"
+    "num_reviews": "10.0",
+    "address": "D.B.Manohar Complex, 17, Fateh Sultan Ln, Mahesh Nagar Colony, Abids, Hyderabad, Telangana 500001, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Medwin%20Hospital&query_place_id=ChIJfZzTPBeXyzsRDK0Yyp7edYU",
+    "rating": "3.7",
+    "review_count": 60,
+    "lat": 17.3937388,
+    "lng": 78.4718596,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:47:04.677Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Neoretina Eye Care Institute",
@@ -205,7 +267,18 @@
     "final_score": 5.86,
     "full_address": "H.no. 5-9-83/B, Ramchander House, Chapel Road, Lane Opposite. LB Stadium & Public Gardens, Nampally, Hyderabad - 500001",
     "is_recommended": false,
-    "num_reviews": "1.7k"
+    "num_reviews": "1.7k",
+    "address": "Mahila Mandali Bhavanam, 25-29, Rd Number 1, R.C. Puram, Mayuri Nagar, Kakatiya Nagar, Bharat Heavy Electricals Limited, Ramachandrapuram, Hyderabad, Telangana 502032, India",
+    "phone": "+91 85005 08108",
+    "website": "https://www.google.com/maps/search/?api=1&query=N%20Care%20Hospitals&query_place_id=ChIJwyBB1zqTyzsR5Zp-baELzCs",
+    "rating": "4.5",
+    "review_count": 391,
+    "hours": "Open 24 hours",
+    "lat": 17.5082047,
+    "lng": 78.3029198,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:42.500Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Rama Hospital",
@@ -255,7 +328,14 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Gouthami Nagar Colony, Jawahar Colony, Chanda Nagar, Hyderabad, Telangana 502032, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Orthopaedic%20Hospital&query_place_id=ChIJz2QMP5GSyzsRbbJ7w20QF2A",
+    "lat": 17.4956787,
+    "lng": 78.3228529,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:22.263Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Rise Childrens Hospital",
@@ -288,7 +368,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Plot No. 6-3, 1106/1/A, Raj Bhavan Rd, adj. HSBC bank, Nishat Bagh Colony, Somajiguda, Hyderabad, Telangana 500082, India",
+    "phone": "+91 40 4720 1201",
+    "website": "https://www.google.com/maps/search/?api=1&query=Zoi%20Hospitals%2C%20Somajiguda&query_place_id=ChIJ_fqblrSQyzsRrJjZvFV_7_4",
+    "rating": "4.5",
+    "review_count": 875,
+    "hours": "Open 24 hours",
+    "lat": 17.4277794,
+    "lng": 78.4573486,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:10.162Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Global Hospitals",
@@ -305,7 +396,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "GC97+93R, Phase 2, Mahadevpur Colony, Hyderabad, Telangana 500117, India",
+    "phone": "+91 63093 66765",
+    "website": "https://www.google.com/maps/search/?api=1&query=Shraddha%20Global%20Hospitals&query_place_id=ChIJM-gVEP6PyzsRdGKfdFgb4pI",
+    "rating": "4.6",
+    "review_count": 27,
+    "hours": "Open 24 hours",
+    "lat": 17.5184339,
+    "lng": 78.4128402,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:14.966Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Krishna Childrens Hospital",
@@ -423,7 +525,14 @@
     "final_score": 0.1,
     "full_address": "Road No. 14, Banjara Hills, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "address": "CCJF+269, Road Number 5, Women's Welfare Housing Society, Jubilee Hills, Hyderabad, Telangana 500033, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Cancer%20Hospital&query_place_id=ChIJybbZdQCRyzsRI4h6Jgyli54",
+    "lat": 17.4300398,
+    "lng": 78.4230987,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:47:04.677Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Birthplace Healthcare Private Limited",
@@ -468,7 +577,7 @@
     "lng": 78.4446875,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:50:22.129Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Centre For Sight",
@@ -603,7 +712,18 @@
     "final_score": 5.84,
     "full_address": "Door No 8-2-293 82, No L/276A, Sri Sai Plaza, Road No 12, Banjara Hills, Hyderabad - 500034",
     "is_recommended": false,
-    "num_reviews": "3.4k"
+    "num_reviews": "3.4k",
+    "address": "CHR Lane, Rd Number 1, Seven Hills Colony, Gachibowli, Hyderabad, Telangana 500032, India",
+    "phone": "+91 40 2555 2555",
+    "website": "https://www.google.com/maps/search/?api=1&query=Omega%20Multi-speciality%20Hospitals%20Gachibowli&query_place_id=ChIJKbynOKyTyzsRufLwOtJkwf8",
+    "rating": "4.3",
+    "review_count": 1471,
+    "hours": "Open 24 hours",
+    "lat": 17.4364427,
+    "lng": 78.3674568,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:20.174Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Rainbow Childrens Hospital",
@@ -629,7 +749,7 @@
     "lng": 78.4321158,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:20.175Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Star Hospitals (Unit Of Unimed Health Care Pvt Ltd)",
@@ -646,7 +766,18 @@
     "final_score": 6.08,
     "full_address": "Banjara Hills, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "4153.0"
+    "num_reviews": "4153.0",
+    "address": "Shop No.2, 1-11-22/2, opp. Mother & Child Hospital, Temple Alwal, Alwal, Secunderabad, Telangana 500010, India",
+    "phone": "+91 93966 00049",
+    "website": "https://www.google.com/maps/search/?api=1&query=Star%20kidz%20Baby%20Strore&query_place_id=ChIJQ66A-hObyzsRtJCFQFA6CYY",
+    "rating": "4",
+    "review_count": 9,
+    "hours": "9:30\u202fAM to 9:30\u202fPM",
+    "lat": 17.5030201,
+    "lng": 78.5119064,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:11.385Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Stork Home Fernandez Hospital",
@@ -696,7 +827,18 @@
     "final_score": 5.72,
     "full_address": "Kukatpally, Hyderabad (Sheshadri Nagar)",
     "is_recommended": false,
-    "num_reviews": "14.0"
+    "num_reviews": "14.0",
+    "address": "Pollicetty Towers, St Johns Rd, beside KEYES HIGH SCHOOL FOR GIRLS, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003, India",
+    "phone": "+91 40 6907 1299",
+    "website": "https://www.google.com/maps/search/?api=1&query=Apollo%20Hospitals%20%7C%20Best%20Hospital%20in%20Secunderabad&query_place_id=ChIJJeHp1jSfyzsR23lP-Mfz--Q",
+    "rating": "4.6",
+    "review_count": 7094,
+    "hours": "Open 24 hours",
+    "lat": 17.4396123,
+    "lng": 78.5047331,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.349Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Apollo Cradle",
@@ -713,7 +855,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "MMR Plaza, Hyderabad - Kondapur Door No 2-34/2, Gramakautam, Plot No.1, Plot No. 6, Kothaguda Village, Dist, Serilingampalle (M), Hyderabad, Telangana 500084, India",
+    "phone": "+91 98216 56657",
+    "website": "https://www.google.com/maps/search/?api=1&query=Apollo%20Cradle%20%26%20Children's%20Hospital%20in%20Kondapur%2C%20Hyderabad&query_place_id=ChIJ7StdPMmTyzsRmXCq75ttE9s",
+    "rating": "4.6",
+    "review_count": 5114,
+    "hours": "Open 24 hours",
+    "lat": 17.4597929,
+    "lng": 78.3661048,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:54.730Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Sri Charaka Speciality Ayurvedic Hospital",
@@ -764,7 +917,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "109, Pipe Line Rd, near Konark Hospital, Petbasheerabad, Laxmi Arcade, Sriram Nagar, Jeedimetla, Hyderabad, Telangana 500067, India",
+    "phone": "+91 80 4557 2851",
+    "website": "https://www.google.com/maps/search/?api=1&query=Apollo%2024%7C7%20Lab%20Tests%20Near%20Me%20%7C%20Blood%20Test%20%7C%20Jeedimetla%20Near%20Konark%20Hospital%20%7C%20Home%20Collection%20%7C%20Hyderabad&query_place_id=ChIJWcFdElCbyzsRBYKJCdYl1fI",
+    "hours": "6\u202fAM to 11\u202fPM",
+    "lat": 17.5125063,
+    "lng": 78.4754092,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:11.384Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Candy Childrens Hospital",
@@ -849,7 +1011,14 @@
     "final_score": 5.96,
     "full_address": "Door No 5-9-24/81, Lake Hill Road, Adarsh Nagar, Basheerbagh",
     "is_recommended": false,
-    "num_reviews": "2.3k"
+    "num_reviews": "2.3k",
+    "address": "Saroornagar, Vinayak Nagar Colony, Saroor Nagar West, Saidabad, Hyderabad, Telangana 500059, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Hope%20Hospital&query_place_id=ChIJ0c8NO2SYyzsR47M0A3_kUmU",
+    "lat": 17.3529822,
+    "lng": 78.5130858,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.936Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Hyderabad Nursing Home",
@@ -866,7 +1035,18 @@
     "final_score": 5.88,
     "full_address": "Door No 5-9-29/40, Basheer Bagh Palace, Liberty-500029",
     "is_recommended": false,
-    "num_reviews": "2.4k"
+    "num_reviews": "2.4k",
+    "address": "2-58/8, Police station road, near Telephone Exchange, Chanda Nagar, Hyderabad, Telangana 500050, India",
+    "phone": "+91 90002 13238",
+    "website": "https://www.google.com/maps/search/?api=1&query=Vijaya%20Nursing%20Home%20%7C%20Chanda%20Nagar&query_place_id=ChIJr0-GmJGSyzsR97i7NF-vgWs",
+    "rating": "3.9",
+    "review_count": 564,
+    "hours": "Open 24 hours",
+    "lat": 17.4957048,
+    "lng": 78.325081,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:17.006Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Kirloskar Hospital",
@@ -883,7 +1063,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "No. 5-9-47/4, Bashir Bagh Opposite Old Gandhi Medical College, Hyderabad, Telangana 500004, India",
+    "phone": "+91 40 2329 6241",
+    "website": "https://www.google.com/maps/search/?api=1&query=Kirloskar%20Hospital&query_place_id=ChIJp1Pk-N-ZyzsR-xh0GwvHncE",
+    "rating": "3.9",
+    "review_count": 266,
+    "hours": "Open 24 hours",
+    "lat": 17.4036527,
+    "lng": 78.4753781,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:20.825Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "New Vision Laser Centres Pvt Ltd.",
@@ -917,7 +1108,17 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "3rd Floor, Kalyan Tulasiram Chambers, Ramakrishna Nagar, Hafeezpet, Madeenaguda, Hyderabad, Telangana 500049, India",
+    "phone": "+91 98498 61089",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sulochana%20Hospital&query_place_id=ChIJAQAAwGGSyzsRimVcWzmUW5U",
+    "rating": "4.5",
+    "review_count": 26,
+    "lat": 17.4936856,
+    "lng": 78.3401293,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:51.733Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Asian Institute Of Gastroenterology",
@@ -933,7 +1134,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "address": "Telangana State, H.No.6-3-2260/754.C-754, Near: Red Tank, Vanasthalipuram, Ranga Reddy District-500 070, Hyderabad, Telangana 500070, India",
+    "phone": "+91 90906 56503",
+    "website": "https://www.google.com/maps/search/?api=1&query=Asian%20hospital&query_place_id=ChIJz0RlFQChyzsRljxIG8TPMuA",
+    "rating": "4.7",
+    "review_count": 13,
+    "hours": "Open 24 hours",
+    "lat": 17.3292061,
+    "lng": 78.5675066,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:26.346Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Asian Institute Of Nephrology And Urology",
@@ -950,7 +1162,18 @@
     "final_score": 6.04,
     "full_address": "No.6-3-562/A, Behind More Megastore, Erram Manzil Colony, Somajiguda-500082",
     "is_recommended": false,
-    "num_reviews": "8.8k"
+    "num_reviews": "8.8k",
+    "address": "16-11-741/C/C/15, Indira Nagar Road Near Metro Pillar No: A1517 Gaddiannaram, Dilsukhnagar, Hyderabad, Telangana 500060, India",
+    "phone": "+91 40 6797 6747",
+    "website": "https://www.google.com/maps/search/?api=1&query=Asian%20Institute%20of%20Nephrology%20and%20Urology%20at%20Dilsukhnagar%2C%20Hyderabad%20%7C%20AINU%20Hospitals&query_place_id=ChIJCX_fjbaZyzsRKLYPGC0ymRA",
+    "rating": "4.9",
+    "review_count": 4847,
+    "hours": "Open 24 hours",
+    "lat": 17.3693733,
+    "lng": 78.520993,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:18.589Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Asvins Speciality Hospital (Amaravati Medicare Pvt)",
@@ -974,7 +1197,7 @@
     "lng": 78.4564134,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:50:12.307Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Matrika Hospital",
@@ -1036,7 +1259,16 @@
     "final_score": 0.2,
     "full_address": "Somajiguda, Hyderabad",
     "is_recommended": true,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "address": "22-35, Malkajgiri Rd, RK Nagar Colony, Malkajgiri, Secunderabad, Telangana 500047, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Ent%20Hospital&query_place_id=ChIJBwDAI7mbyzsRz67k_lyp49U",
+    "rating": "3.3",
+    "review_count": 16,
+    "lat": 17.4576077,
+    "lng": 78.5364706,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:50.906Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sai Institute Of Sports Injury And Orthroscopy Hospital",
@@ -1149,7 +1381,18 @@
     "final_score": 5.72,
     "full_address": "9-2, Sharada Nagar, Ramanthapur, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "6.0"
+    "num_reviews": "6.0",
+    "address": "CGVP+7XM, Pream Vijay Nagar Colony, Tirumala Residency, Prasanth Nagar, Malkajgiri, Hyderabad, Secunderabad, Telangana 500017, India",
+    "phone": "+91 92474 28394",
+    "website": "https://www.google.com/maps/search/?api=1&query=Dm%20Damodar%20Reddy%20Hospital&query_place_id=ChIJCf7OqMSbyzsRNO3qeGvffGE",
+    "rating": "5",
+    "review_count": 3,
+    "hours": "6\u202fAM to 10\u202fPM",
+    "lat": 17.4432186,
+    "lng": 78.5374273,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:48.424Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Aditya Hospitals",
@@ -1166,7 +1409,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Mahaveer Towers, MIG 282, Road No. 4, Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072, India",
+    "phone": "+91 72072 00605",
+    "website": "https://www.google.com/maps/search/?api=1&query=ADITYA%20HOSPITALS&query_place_id=ChIJ7QpdW7iRyzsREj9HdPEu6AI",
+    "rating": "4.9",
+    "review_count": 71,
+    "hours": "9\u202fAM to 9:30\u202fPM",
+    "lat": 17.4914029,
+    "lng": 78.3972687,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:20.030Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Aditya Hospitals-Uppal",
@@ -1183,7 +1437,18 @@
     "final_score": 5.72,
     "full_address": "Survey No 93/2&125, Opposite Bharath Petrol Pump, Shantinagar Colony, Uppal-500039",
     "is_recommended": false,
-    "num_reviews": "1.4k"
+    "num_reviews": "1.4k",
+    "address": "4-1-16, Tilak Rd, Bogulkunta, Abids, Hyderabad, Telangana 500001, India",
+    "phone": "+91 40 4142 4344",
+    "website": "https://www.google.com/maps/search/?api=1&query=Aditya%20Hospital&query_place_id=ChIJfa7mfmqayzsRsB9vPaC67CA",
+    "rating": "3.4",
+    "review_count": 547,
+    "hours": "Open 24 hours",
+    "lat": 17.3902372,
+    "lng": 78.4812222,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:21.128Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Adr Hospital",
@@ -1211,7 +1476,7 @@
     "lng": 78.5379017,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:20.175Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Akshaya Care Multispeciality Hospital",
@@ -1228,7 +1493,15 @@
     "final_score": 0.2,
     "full_address": "Padmarao Nagar, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "address": "Borabanda - Allahpur Rd, Site-3, NRR Puram, Borabanda, Hyderabad, Telangana 500114, India",
+    "phone": "+91 93816 70636",
+    "website": "https://www.google.com/maps/search/?api=1&query=MULTISPECIALITY%20HOSPITAL&query_place_id=ChIJU4cDu62RyzsRdRZroGyd4Mg",
+    "lat": 17.4510182,
+    "lng": 78.4069481,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:22.349Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Alpha Superspeciality Hospital",
@@ -1278,7 +1551,15 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "9H25+G2W, Sanjeevaiah Nagar Shanti Nagar Sircilla, Telangana 500074, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=NIKHIL%20CHILDRENS%20HOSPITAL&query_place_id=ChIJlaFobQeZyzsRzegODVinz14",
+    "hours": "9\u202fAM to 9\u202fPM",
+    "lat": 17.3513622,
+    "lng": 78.5575831,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:35.124Z",
+    "match_score": 0.704
   },
   {
     "hospital_name": "Ankura Hospital For Women And Children-A.S. Rao Nagar",
@@ -1295,7 +1576,18 @@
     "final_score": 0.2,
     "full_address": "A.S. Rao Nagar, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "address": "SY. NO. 466 1-19-96, Dr. AS Rao Nagar Rd, Gokul Nagar, A. S. Rao Nagar, Hyderabad, Secunderabad, Telangana 500062, India",
+    "phone": "+91 90531 08108",
+    "website": "https://www.google.com/maps/search/?api=1&query=Ankura%20Hospital%20for%20Women%20%26%20Children%20-%20AS%20Rao%20Nagar&query_place_id=ChIJr6dbBXebyzsR1x6whz3yx54",
+    "rating": "4.5",
+    "review_count": 2591,
+    "hours": "Open 24 hours",
+    "lat": 17.4820251,
+    "lng": 78.5525135,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:48.524Z",
+    "match_score": 0.9484536082474226
   },
   {
     "hospital_name": "Ankura Hospital For Women And Children-Madinaguda",
@@ -1312,7 +1604,16 @@
     "final_score": 5.88,
     "full_address": "Beside Bharat Petrol Bunk, Madinaguda, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "2.3k"
+    "num_reviews": "2.3k",
+    "address": "F8VR+WQQ, Ramakrishna Nagar, Hafeezpet, Madeenaguda, Hyderabad, Telangana 500049, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Ankura%20Hospitals%20for%20women%20%26%20children%20OPD%20block&query_place_id=ChIJ0wEkbgCTyzsRhK0zuhm1O7s",
+    "rating": "5",
+    "review_count": 1,
+    "lat": 17.4948397,
+    "lng": 78.3419934,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:54.324Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Anupama Hospital",
@@ -1329,7 +1630,18 @@
     "final_score": 5.84,
     "full_address": "JNTU Rd, near The Forum Sujana Mall,, Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana - 500072",
     "is_recommended": false,
-    "num_reviews": "2.5k"
+    "num_reviews": "2.5k",
+    "address": "Plot.No 157, SBH Colony, Little Flower School Road, L.B Nagar, Saroornagar, SBH Colony, Telangana 500074, India",
+    "phone": "+91 40 2403 2646",
+    "website": "https://www.google.com/maps/search/?api=1&query=Anupama%20Hospital&query_place_id=ChIJnWuYC6OYyzsROO_HowQpuNU",
+    "rating": "4.5",
+    "review_count": 97,
+    "hours": "Open 24 hours",
+    "lat": 17.3471027,
+    "lng": 78.5476729,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:09.623Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Anukrishna Hospital",
@@ -1447,7 +1759,18 @@
     "final_score": 5.84,
     "full_address": "1-56/AH, NH 65, beside Reliance Digital, Madinaguda, Durga Estates, Miyapur, Telangana 500049",
     "is_recommended": false,
-    "num_reviews": "2.3k"
+    "num_reviews": "2.3k",
+    "address": "Pristyn care Archana Hospital, Maruti Sadan, beside Bharath Petrol bunk, Ramakrishna Nagar, Hafeezpet, Madeenaguda, Hyderabad, Telangana 500049, India",
+    "phone": "+91 80 6542 3723",
+    "website": "https://www.google.com/maps/search/?api=1&query=Pristyn%20Care%20Archana%20-%20Best%20Super%20Speciality%20Hospital&query_place_id=ChIJb23w60eTyzsRvSXF9AsQBCM",
+    "rating": "4.4",
+    "review_count": 244,
+    "hours": "Open 24 hours",
+    "lat": 17.4948229,
+    "lng": 78.3410753,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:53.382Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Aruna Hospital",
@@ -1463,7 +1786,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "1-7-43/178, South Kamala Nagar, Kamalanagar, Anupuram Colony, Kapra, Secunderabad, Telangana 500062, India",
+    "phone": "+91 99592 73134",
+    "website": "https://www.google.com/maps/search/?api=1&query=Aruna%20Hospital&query_place_id=ChIJVcfr94CbyzsRmv7-J7l8AYc",
+    "rating": "4.3",
+    "review_count": 26,
+    "hours": "Open 24 hours",
+    "lat": 17.4761402,
+    "lng": 78.5640294,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:48.524Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Asha Hospital",
@@ -1480,7 +1814,16 @@
     "final_score": 0.2,
     "full_address": "H.No. 19-66/11, Prashanth Nagar, Phase-Ii, Behind Spencers, Hitension Road, Dr. A.S. Rao Nagar, Kapra, Hyderabad, Telangana, Pincode - 500062",
     "is_recommended": false,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "address": "Fakelocation Swdgsdi, Petbasheerabad, Sriram Nagar, Jeedimetla, Hyderabad, Telangana 500067, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Asha%20hospital&query_place_id=ChIJw-5HBkKbyzsRMGoRzZyK4Ec",
+    "rating": "4.5",
+    "review_count": 8,
+    "lat": 17.510803,
+    "lng": 78.4786057,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:49.398Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Aasritha Hospital",
@@ -1565,7 +1908,18 @@
     "final_score": 0.2,
     "full_address": "6-3-788/32,1st Floor Durganagar Colony Oppositechandana Bros Ameerpet, Hyderabad - 500016",
     "is_recommended": false,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "address": "GC3C+364, Venkateswara Nagar, Shiva Nagar, Anjaiah Nagar, Kukatpally, Hyderabad, Telangana 500037, India",
+    "phone": "+91 98499 35325",
+    "website": "https://www.google.com/maps/search/?api=1&query=Balaji%20Hospital&query_place_id=ChIJSUFSBs-RyzsRcki0_RATh80",
+    "rating": "3.9",
+    "review_count": 7,
+    "hours": "9\u202fAM to 10\u202fPM",
+    "lat": 17.5026377,
+    "lng": 78.4205656,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.623Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Bapuji Maternity & Nursing Home",
@@ -1581,7 +1935,14 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "8-112, Street 1, Kondapur, Hanuman Nagar, Silpa Park, Gachibowli, Hyderabad, Telangana 500084, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Maternity%20Hospitals&query_place_id=ChIJn0-AdJ2YyzsRZRuB1JxamZA",
+    "lat": 17.4700678,
+    "lng": 78.3676978,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:25.432Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Bbr Multispeciality Hospital",
@@ -1779,7 +2140,7 @@
     "lng": 78.3394579,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:19.237Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "Cygnus Institute Of Gasteroenterology",
@@ -1830,7 +2191,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "DVN ComplexL B Nagar, 3-11-142/N, Rd No 1, RTC Colony, LB Nagar, opposite to Kamineni Hospital, Hyderabad, Telangana 500074, India",
+    "phone": "+91 80089 85757",
+    "website": "https://www.google.com/maps/search/?api=1&query=Disha%20Children's%20Hospital&query_place_id=ChIJJeEJerCYyzsR6nK_gynB-E4",
+    "rating": "3.6",
+    "review_count": 268,
+    "hours": "Open 24 hours",
+    "lat": 17.3525918,
+    "lng": 78.555138,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:14.771Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Dr.Agarwal'S Eye Hospital-Dilsukhnagar",
@@ -1864,7 +2236,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Door No. 3, 6125, Hayath Nagar Road, Shivapuri Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+    "phone": "+91 40 2403 7879",
+    "website": "https://www.google.com/maps/search/?api=1&query=LB%20Nagar%20Hospital&query_place_id=ChIJ_e0HQ6OYyzsRzoulTvrCfJo",
+    "rating": "3.6",
+    "review_count": 88,
+    "hours": "Open 24 hours",
+    "lat": 17.3490565,
+    "lng": 78.548304,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.935Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Dr.Naveen Reddy's General Hospital",
@@ -1881,7 +2264,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Jiyaguda,besides royal sea hotel,Police colony,kamela road., Hyderabad, Telangana 500006, India",
+    "phone": "+91 94900 97023",
+    "website": "https://www.google.com/maps/search/?api=1&query=General%20hospital.&query_place_id=ChIJ3d-8caOXyzsRYAbaA07hYgE",
+    "rating": "4",
+    "review_count": 1,
+    "hours": "11\u202fAM to 11:30\u202fPM",
+    "lat": 17.3698435,
+    "lng": 78.4477645,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:22.349Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Dr.P.Siva Reddy Eye Hospital",
@@ -2000,7 +2394,14 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "9GR4+HVW, Indra Nagar, Tilak Nagar, Amberpet, Hyderabad, Telangana 500013, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Laxmi%20Clinic%20(Dr.Jadeshwariah%20Hospital)&query_place_id=ChIJNSwhbimZyzsRKs2Lidxmq7s",
+    "lat": 17.3914908,
+    "lng": 78.5072028,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:47:05.952Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Eswar Eye Hospital",
@@ -2017,7 +2418,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "1st floor, NEELANCHAL HEIGHTS, 193D, Quthbullapur Main Rd, next to Indian oil petrol bunk, Suchitra, Godavari Homes, Quthbullapur, Hyderabad, Telangana 500067, India",
+    "phone": "+91 90003 59124",
+    "website": "https://www.google.com/maps/search/?api=1&query=Eswar%20Eye%20Hospital%20%7C%20Cataract%2C%20LASIK%2C%20Retina%20%26%20Eye%20Care%20in%20Hyderabad&query_place_id=ChIJSeSUAC6RyzsRRXSTlW_5Fag",
+    "rating": "4.9",
+    "review_count": 151,
+    "hours": "10\u202fAM to 8\u202fPM",
+    "lat": 17.5024389,
+    "lng": 78.4707293,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:10.146Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Eyemax Eye Hospital",
@@ -2118,7 +2530,15 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Shop No 1,road, 6, RTC Colony Rd, near Metro, Snehapuri Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=EYE%20HOSPITAL%20PVT%20LTD&query_place_id=ChIJKSesaACZyzsRPgoZ5YcHyJw",
+    "hours": "9\u202fAM to 8\u202fPM",
+    "lat": 17.3491236,
+    "lng": 78.5488912,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:09.624Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "G.M Hospitals",
@@ -2247,7 +2667,16 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Dwarakapuri Colony, Sudershan Reddy Nagar, Quthbullapur, Hyderabad, Telangana 500054, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Raman's%20Hospital%20Eye%20%26%20Maternity%20Center&query_place_id=ChIJbxK8sWqQyzsR6XNSz8yEKJE",
+    "rating": "5",
+    "review_count": 1,
+    "lat": 17.4955041,
+    "lng": 78.4532853,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:10.145Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Hyderabad Kidney & Laproscopy Centre",
@@ -2292,7 +2721,7 @@
     "lng": 78.3898974,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:19.356Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "Image Hospitals-Hitech City",
@@ -2337,7 +2766,7 @@
     "lng": 78.4467659,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:50:10.163Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Indo-Us Super Speciality Hospital",
@@ -2371,7 +2800,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "9G8P+X8V, Opposite Kothapet Fruit Market Kothapet, Sri Sai Shivani Complex, HUDA Complex, Saroornagar, Hyderabad, Telangana 500035, India",
+    "phone": "+91 92462 70270",
+    "website": "https://www.google.com/maps/search/?api=1&query=Induss%20Hospital&query_place_id=ChIJfWI6mu6YyzsRtxLwJKSq2SM",
+    "rating": "4.2",
+    "review_count": 117,
+    "hours": "Open 24 hours",
+    "lat": 17.3674972,
+    "lng": 78.5358076,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:08.786Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Ikon Hospital (A Unit Of Ikon Medical Services Pvt Ltd)-Dilshukhnagar",
@@ -2507,7 +2947,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "62/135, near Osman Bakers, Kondapur, Anjaiah Nagar, Gachibowli, Hyderabad, Telangana 500084, India",
+    "phone": "+91 90320 06108",
+    "website": "https://www.google.com/maps/search/?api=1&query=Kakatiya%20Hospital&query_place_id=ChIJl6_fl8aTyzsRVDzEMXjmJQw",
+    "rating": "3.9",
+    "review_count": 228,
+    "hours": "Open 24 hours",
+    "lat": 17.4515906,
+    "lng": 78.3668489,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:43.913Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Kamineni Hospitals-Kingkoti",
@@ -2524,7 +2975,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Inner Ring Rd, Suryodaya Colony, Sarvodaya Colony, Central Bank Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+    "phone": "+91 70362 70362",
+    "website": "https://www.google.com/maps/search/?api=1&query=Kamineni%20Hospitals&query_place_id=ChIJ018K3TCfyzsRu5lJNl8PdGA",
+    "rating": "4.5",
+    "review_count": 7513,
+    "hours": "Open 24 hours",
+    "lat": 17.3516773,
+    "lng": 78.5556036,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:46:55.318Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Kamineni Hospitals-L.B. Nagar",
@@ -2558,7 +3020,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "11-11-739/1&2, NH 65, Gaddiannaram, Dilsukhnagar, Hyderabad, Telangana 500060, India",
+    "phone": "+91 89089 01188",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sreshta%20Sri%20Kamala%20Hospitals&query_place_id=ChIJPbkMSPaYyzsROKrLrqCEPOw",
+    "rating": "3.9",
+    "review_count": 568,
+    "hours": "Open 24 hours",
+    "lat": 17.3683398,
+    "lng": 78.5221415,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.935Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Kasturi Multi Speciality Hospital",
@@ -2660,7 +3133,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "plot no: 13 & 14, Pipe Line Rd, behind deevan dhaba, Petbasheerabad, Laxmi Arcade, Sriram Nagar, Jeedimetla, Hyderabad, Telangana 500067, India",
+    "phone": "+91 40 3526 1515",
+    "website": "https://www.google.com/maps/search/?api=1&query=Konark%20Hospitals&query_place_id=ChIJ68YHYweQyzsRbrTaR8j96PY",
+    "rating": "4",
+    "review_count": 334,
+    "hours": "Open 24 hours",
+    "lat": 17.5124278,
+    "lng": 78.4754673,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:08.500Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Kosaraju Hospitals Pvt. Ltd.",
@@ -2677,7 +3161,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "9-1, 43/23, Langar Houz, Hyderabad, Telangana 500008, India",
+    "phone": "+91 40 2351 4178",
+    "website": "https://www.google.com/maps/search/?api=1&query=Kosaraju%20Hospitals&query_place_id=ChIJAcgH13iXyzsR0CvmQ49McXY",
+    "rating": "2.4",
+    "review_count": 14,
+    "hours": "Open 24 hours",
+    "lat": 17.3755547,
+    "lng": 78.4190492,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:40.267Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Krishna Sai Multi Speciality Hospital",
@@ -2694,7 +3189,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Red Hills, Lakdikapul, Hyderabad, Telangana 500004, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Krishna%20Multi%20Speciality%20Hospital&query_place_id=ChIJWxoFbGiXyzsROUzmjIe3Wtc",
+    "rating": "2.6",
+    "review_count": 23,
+    "lat": 17.4022402,
+    "lng": 78.463065,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:22.349Z",
+    "match_score": 0.9428571428571428
   },
   {
     "hospital_name": "Krishna Multi Speciality Hospital",
@@ -2807,7 +3311,7 @@
     "lng": 78.388025,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:17.006Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "Latha Nursing Home",
@@ -2851,7 +3355,7 @@
     "lng": 78.4238187,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:50:18.460Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Leaf Hospital",
@@ -2868,7 +3372,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "11-10-221, 1, Vijayapuri Colony Rd Number 2, Kothapet, Hyderabad, Telangana 500102, India",
+    "phone": "+91 97036 56334",
+    "website": "https://www.google.com/maps/search/?api=1&query=New%20Leaf%20Clinics%20%7C%20Hospital%20in%20Kothapet&query_place_id=ChIJFyjz6sKZyzsR8Wa0rupPSLA",
+    "rating": "4.7",
+    "review_count": 18,
+    "hours": "6 to 9\u202fPM",
+    "lat": 17.3707355,
+    "lng": 78.5454548,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:23.795Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Life Spring Hospital (Nacharam)",
@@ -2885,7 +3400,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "House No. 2-2-185/24/3 & 4, Beside Star Home Apartments, Mallikarjuna Nagar, Amberpet, Hyderabad, Telangana 500013, India",
+    "phone": "+91 97013 46528",
+    "website": "https://www.google.com/maps/search/?api=1&query=Life%20Spring%20Maternity%20Hospital&query_place_id=ChIJv6N_fQiZyzsRjCuIayVz5hE",
+    "rating": "3",
+    "review_count": 8,
+    "hours": "Open 24 hours",
+    "lat": 17.395775,
+    "lng": 78.523481,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:29.431Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Life Spring Hospitals (Alwal)",
@@ -2919,7 +3445,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "APIIC Colony, Shapur Nagar, Chinthal, Jeedimetla, Hyderabad, Telangana 500055, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Lions%20Club%20Of%20Hyderabad%20Hospital&query_place_id=ChIJt1gIbNiPyzsRFw1aCtg6ZUc",
+    "rating": "4.8",
+    "review_count": 19,
+    "lat": 17.5197789,
+    "lng": 78.4428197,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:24.803Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Little Stars Children's Hospital",
@@ -2936,7 +3471,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "CC8W+2MW Ascent Towers, 8-2-596, Road No. 10, near SBI Bank, Gaffar Khan Colony, Banjara Hills, Hyderabad, Telangana 500034, India",
+    "phone": "+91 40 6699 2345",
+    "website": "https://www.google.com/maps/search/?api=1&query=Little%20Stars%20and%20She%3A%20Best%20Women%20and%20Children's%20Hospital%20in%20Hyderabad%20%7C%20Gynaecology%20and%20Pediatric%20Care&query_place_id=ChIJ1U43w8qQyzsRTPmqhhvhTBU",
+    "rating": "4.4",
+    "review_count": 1749,
+    "hours": "Open 24 hours",
+    "lat": 17.4150995,
+    "lng": 78.4467198,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:21.953Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "L.K.Hospitals Pvt. Ltd.",
@@ -3054,7 +3600,17 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "SRI MUKHI COMPLEX, H NO 8-7-5/6, Hyderabad - Nagarjuna Sagar Rd, beside RELIANCE DIGITAL, Shiridi Sai Nagar, Hasthinapuram Central, Laxmi Narashima Puram Colony, Hastinapuram, Hyderabad, Telangana 500079, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=TSR%20MAMATHA%20HOSPITAL&query_place_id=ChIJaQGdBKajyzsR7iw2brPhGo0",
+    "rating": "5",
+    "review_count": 8,
+    "hours": "Open 24 hours",
+    "lat": 17.3292418,
+    "lng": 78.5538168,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:59.154Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Mankindd Hospital",
@@ -3086,15 +3642,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Borabanda - Allahpur Rd, Site-3, NRR Puram, Borabanda, Hyderabad, Telangana 500114, India",
-    "phone": "+91 93816 70636",
-    "website": "https://www.google.com/maps/search/?api=1&query=MULTISPECIALITY%20HOSPITAL&query_place_id=ChIJU4cDu62RyzsRdRZroGyd4Mg",
-    "lat": 17.4510182,
-    "lng": 78.4069481,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:22.349Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "Matrix Hospital (A Unit Of Sadguru Hospitals Pvt Ltd)",
@@ -3162,7 +3710,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "H.No: 1, 98/81, Sai Nagar, Madhapur, Hyderabad, Telangana 500081, India",
+    "phone": "+91 80191 56655",
+    "website": "https://www.google.com/maps/search/?api=1&query=Madhapur%20Hospitals&query_place_id=ChIJy6eEvhSRyzsRDvui5Bdaz0g",
+    "rating": "4.8",
+    "review_count": 18,
+    "hours": "10\u202fAM to 10\u202fPM",
+    "lat": 17.4437288,
+    "lng": 78.3916424,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:54.730Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Medicure Diagnostic & Research Centre (Alekhya Scanning Centre)",
@@ -3264,7 +3823,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Plot No.32-40, Alluri Seeta Rama Raju Colony, Jaya Prakash Narayan Nagar, Miyapur X Road, Hyderabad, Telangana 500049, India",
+    "phone": "+91 40 2304 2015",
+    "website": "https://www.google.com/maps/search/?api=1&query=Mirra%20Multispeciality%20Hospital&query_place_id=ChIJD-kdLnKSyzsRn6PkUTDLHsM",
+    "rating": "3.4",
+    "review_count": 75,
+    "hours": "Open 24 hours",
+    "lat": 17.5044699,
+    "lng": 78.3564553,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.623Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "M.S.Reddy Lions Eye Hospital",
@@ -3298,7 +3868,17 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "GC7W+WXW, Phase 1, IDA Jeedimetla, Chinthal, Jeedimetla, Hyderabad, Telangana 500055, India",
+    "phone": "+91 88018 10350",
+    "website": "https://www.google.com/maps/search/?api=1&query=Mythri%20Hospital&query_place_id=ChIJ6wTbOSGQyzsRD6HZz8k8YEk",
+    "rating": "5",
+    "review_count": 1,
+    "lat": 17.5148664,
+    "lng": 78.4474628,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:20.185Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Nakshatra Hospitals",
@@ -3315,7 +3895,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "LB Nagar - Uppal Rd, opp. Swagath Grand Hotel, East Yadav Nagar, Ramakrishnapuram, Nagole, Hyderabad, Telangana 500102, India",
+    "phone": "+91 80193 49349",
+    "website": "https://www.google.com/maps/search/?api=1&query=Nakshatra%20Hospitals&query_place_id=ChIJKxtMKMiYyzsRQJwX0mDFPCI",
+    "rating": "4.6",
+    "review_count": 1233,
+    "hours": "Open 24 hours",
+    "lat": 17.362432,
+    "lng": 78.5571223,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:59.377Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Naveena Hospital",
@@ -3332,7 +3923,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Naveena Hospital, 8-7-91/178/1, Nagarjuna Sagar Rd, Padmavathi Nagar, Hasthinapuram South, Hastinapuram, Hyderabad, Telangana 500079, India",
+    "phone": "+91 91009 54692",
+    "website": "https://www.google.com/maps/search/?api=1&query=Naveena%20Multi%20Speciality%20Hospital&query_place_id=ChIJryVKsxqiyzsRzgeQhOqtPnI",
+    "rating": "3.4",
+    "review_count": 156,
+    "hours": "Open 24 hours",
+    "lat": 17.3271861,
+    "lng": 78.5557558,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.935Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Navodaya Hospital For Women And Children",
@@ -3349,7 +3951,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "@, Nagarjuna Sagar Rd, Phase 4, Hasthinapuram South, Hastinapuram, Hyderabad, Telangana 500079, India",
+    "phone": "+91 88923 19999",
+    "website": "https://www.google.com/maps/search/?api=1&query=Samraksha%20hospital%20for%20women%20and%20children&query_place_id=ChIJ_0MKB8WjyzsRb_yoJhUNNw8",
+    "rating": "4.6",
+    "review_count": 1044,
+    "hours": "Open 24 hours",
+    "lat": 17.3249687,
+    "lng": 78.5570965,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:13.068Z",
+    "match_score": 0.8641975308641975
   },
   {
     "hospital_name": "Neelima Hospital",
@@ -3377,7 +3990,7 @@
     "lng": 78.4388178,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:18.350Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Neo Bbc New Born & Children'S Hospital",
@@ -3428,7 +4041,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "8/1, 8-1, Market St, near Clock Tower, Clock Tower Second Bazaar Area, Maruthi Veedhi, Shivaji Nagar, Secunderabad, Telangana 500003, India",
+    "phone": "+91 74393 45678",
+    "website": "https://www.google.com/maps/search/?api=1&query=New%20Life%20Hospital%20in%20Secunderabad&query_place_id=ChIJQzMOPrWbyzsRtbTz7ZEvaR4",
+    "rating": "4.1",
+    "review_count": 123,
+    "hours": "Open 24 hours",
+    "lat": 17.4400395,
+    "lng": 78.4977309,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:40.578Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "New Lifeline Multispeciality Hospital",
@@ -3512,7 +4136,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Gaddi Annaram Cross Road, Dilsukh Nagar Main Rd, Dilsukhnagar, Hyderabad, Telangana 500060, India",
+    "phone": "+91 40 7124 1111",
+    "website": "https://www.google.com/maps/search/?api=1&query=Nikhil%20Hospitals&query_place_id=ChIJjSdidPWYyzsRZRcGwOp2fKo",
+    "rating": "4.3",
+    "review_count": 538,
+    "hours": "Open 24 hours",
+    "lat": 17.3681843,
+    "lng": 78.5204428,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:18.589Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Nirmala Maternity & Orthopaedic Hospital",
@@ -3563,7 +4198,14 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "92, Lothukunta Rd, Laxmi Nagar, Alwal, Secunderabad, Telangana 500015, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Om%20Sai%20Polyclinic&query_place_id=ChIJrxSQhOiayzsR5bTGtZTWYMA",
+    "lat": 17.4957133,
+    "lng": 78.508893,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:09.306Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Omni Hospitals (A Unit Of Incor Hospitals Pvt Ltd)",
@@ -3606,7 +4248,14 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "address": "9G2W+HW5, Snehapuri Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Ozone%20hospital&query_place_id=ChIJXTNEMgCZyzsRdKlv06NG7rw",
+    "lat": 17.3513885,
+    "lng": 78.5473619,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:23.536Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Pace Hospitals",
@@ -3623,14 +4272,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "address": "HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=Pace%20Hospitals&query_place_id=ChIJy-b2IGCRyzsRzSgrupCLsRc",
-    "rating": "5",
-    "review_count": 7,
-    "lat": 17.4469929,
-    "lng": 78.3843435,
+    "address": "Metro Pillar Number C1775, 18, Hitech City Rd, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081, India",
+    "phone": "+91 40 4848 6868",
+    "website": "https://www.google.com/maps/search/?api=1&query=PACE%20Hospitals%20-%20Best%20Hospital%20in%20Hyderabad%2C%20HITEC%20City&query_place_id=ChIJozoJIGCRyzsRp0RU300kf-M",
+    "rating": "4.6",
+    "review_count": 10417,
+    "hours": "Open 24 hours",
+    "lat": 17.4469083,
+    "lng": 78.3842361,
     "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:38.896Z",
+    "scraped_at": "2026-03-23T15:00:18.349Z",
     "match_score": 1.0
   },
   {
@@ -3647,7 +4298,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "17-1-386/1/18, Beside Laxmi Timber Depo, Sagar Road, Keshav Nagar Colony, Champapet Rd, Trimurti Colony, Saroor Nagar East, Hyderabad, Telangana 500079, India",
+    "phone": "+91 40 4954 9783",
+    "website": "https://www.google.com/maps/search/?api=1&query=Padmaja%20Hospital&query_place_id=ChIJq6rq3HyYyzsR0HUcafumtwA",
+    "rating": "3.1",
+    "review_count": 76,
+    "hours": "Open 24 hours",
+    "lat": 17.3471108,
+    "lng": 78.521285,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:22.557Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Padmavathi Hospital (Old Name-Sri Venkateswara Multy Speciality Hospital)",
@@ -3664,7 +4326,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Madhava Nagar Colony, Old Shilpa Nursing Home premises, Plot No. 12 & 13, Sai Ranga Theatre Rd, beside Sai Ranga theatre, Hafeezpet, Miyapur, Telangana 500049, India",
+    "phone": "+91 40 4953 0673",
+    "website": "https://www.google.com/maps/search/?api=1&query=Padmavathi%20Gastro%20and%20Liver%20Hospital%20%7C%20Best%20Gastroenterologist%20in%20Hyderabad%20%7C%20Endoscopy&query_place_id=ChIJSRvA75mTyzsRn8BrU1CHAUU",
+    "rating": "4.1",
+    "review_count": 299,
+    "hours": "Open 24 hours",
+    "lat": 17.4947613,
+    "lng": 78.3599988,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:53.382Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Paramitha Childrens Hospital Pvt Ltd",
@@ -3743,7 +4416,7 @@
     "lng": 78.383996,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:17.006Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Pragna Children'S Hospital",
@@ -3760,7 +4433,17 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "MIG-260, Road No. 4, Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Pragna%20Hospital&query_place_id=ChIJJ1V_0pKRyzsRHCMN51AluV4",
+    "rating": "4.7",
+    "review_count": 3,
+    "hours": "8\u202fAM to 6\u202fPM",
+    "lat": 17.4925988,
+    "lng": 78.397834,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:50.378Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Pranaam Hospital Pvt Ltd.",
@@ -3777,7 +4460,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "1-56/6/40& 41, Pranaam Hospital Ln, Ramakrishna Nagar, Mythri Nagar, Miyapur, Madeenaguda, Hyderabad, Telangana 500049, India",
+    "phone": "+91 77320 38844",
+    "website": "https://www.google.com/maps/search/?api=1&query=Pranaam%20Hospitals&query_place_id=ChIJrYq2ZWGSyzsRSK3XHCMidpM",
+    "rating": "4.1",
+    "review_count": 3569,
+    "hours": "Open 24 hours",
+    "lat": 17.4944967,
+    "lng": 78.342745,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:17.006Z",
+    "match_score": 0.8804878048780488
   },
   {
     "hospital_name": "Prasad Hospital",
@@ -3804,7 +4498,7 @@
     "lng": 78.5551623,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:20.827Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Prashanth Hospital",
@@ -3821,7 +4515,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Survey No. 42, Suchitra, Besides Pista House, Pipe Line Rd, Kompally, Hyderabad, Telangana 500067, India",
+    "phone": "+91 74163 71666",
+    "website": "https://www.google.com/maps/search/?api=1&query=Dr%20Prashanth%20MD%20-%20MedOne%20Super%20Specialty%20Hospital&query_place_id=ChIJz3-sjbmbyzsRUHSukOMCmfc",
+    "rating": "4.3",
+    "review_count": 6,
+    "hours": "Open 24 hours",
+    "lat": 17.5115395,
+    "lng": 78.4788532,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:10.145Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Prema Eye Care",
@@ -3855,7 +4560,14 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "FFXG+XJQ, Suchitra X Rd, Ramraj Nagar, Ramraju Nagar, Jeedimetla, Secunderabad, Hyderabad, Telangana 500067, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Preeti%20Hospital&query_place_id=ChIJPbpwaQCbyzsR0PgQssynKbk",
+    "lat": 17.4999628,
+    "lng": 78.4765481,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:09.305Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Pride Vikram Hospital (Vikram Hospitals)",
@@ -3883,7 +4595,7 @@
     "lng": 78.3916705,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:20.174Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "Prime Hospitals-Ameerpet",
@@ -3951,7 +4663,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Shapur Nagar, Chinthal, Jeedimetla, Hyderabad, Telangana 500055, India",
+    "phone": "+91 98660 45595",
+    "website": "https://www.google.com/maps/search/?api=1&query=Ragini%20Children%20Hospital&query_place_id=ChIJYaO9SyGQyzsRe-WVnubP1pY",
+    "rating": "3.4",
+    "review_count": 106,
+    "hours": "Open 24 hours",
+    "lat": 17.514278,
+    "lng": 78.44701,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:20.185Z",
+    "match_score": 0.7877551020408162
   },
   {
     "hospital_name": "Ram Hospital",
@@ -3968,7 +4691,17 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Street No.1 Viveknagar, Hyderbad, Ramanthapur, Hyderabad, Telangana 500013, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sree%20Sai%20Ram%20Hospital&query_place_id=ChIJpc-qJgOZyzsR7JIdbrDtDk4",
+    "rating": "4.1",
+    "review_count": 20,
+    "hours": "9\u202fAM to 10\u202fPM",
+    "lat": 17.3872767,
+    "lng": 78.5309882,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:22.349Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Ramantapur Hospital",
@@ -4155,7 +4888,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "1-7-181, ECIL Post, ARC Road, South Kamala Nagar, Kamalanagar, Moula Ali, Hyderabad, Secunderabad, Telangana 500062, India",
+    "phone": "+91 94904 86897",
+    "website": "https://www.google.com/maps/search/?api=1&query=ARC%20Orthopaedic%20Hospital&query_place_id=ChIJpcjj7HicyzsRvNYgqCkwjtU",
+    "rating": "4.5",
+    "review_count": 338,
+    "hours": "Open 24 hours",
+    "lat": 17.471534,
+    "lng": 78.5676966,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:50.044Z",
+    "match_score": 0.9361702127659575
   },
   {
     "hospital_name": "Russh Hospitals (A Unit Of Sriven Hospitals Pvt Ltd)",
@@ -4172,7 +4916,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Suchitra Rd, Ramraj Nagar, Ramraju Nagar, Jeedimetla, Hyderabad, Secunderabad, Telangana 500067, India",
+    "phone": "+91 88866 11107",
+    "website": "https://www.google.com/maps/search/?api=1&query=Russh%20Super%20Speciality%20Hospital&query_place_id=ChIJPwSKRaCayzsRDvt_wLDnpfQ",
+    "rating": "4.5",
+    "review_count": 4155,
+    "hours": "Open 24 hours",
+    "lat": 17.499739,
+    "lng": 78.477503,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:08.500Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sagar Hospital",
@@ -4189,7 +4944,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "19-130/1, Venkatapuram Rd, Venkatapuram, Alwal, Secunderabad, Telangana 500015, India",
+    "phone": "+91 89851 34678",
+    "website": "https://www.google.com/maps/search/?api=1&query=SAAGAR%20ENT%20CLINIC%2C%20SAGAR%20ENT%20CLINIC&query_place_id=ChIJmx41VYibyzsRd4PTsC4MK1Q",
+    "rating": "5",
+    "review_count": 86,
+    "hours": "6 to 9\u202fPM",
+    "lat": 17.4961291,
+    "lng": 78.5066767,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:10.145Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sai Bhavani Superspeciality Hospital (New Name Is Satya Sai Bhavani Hospital Pvt Ltd)",
@@ -4223,7 +4989,14 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "3-10-85/C, near Ayappa Temple, Gokhale Nagar, Ramanthapur, Hyderabad, Telangana 500013, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sanjeevini%20Hospital&query_place_id=ChIJVVVVZRCZyzsR0xHPAoUwzCM",
+    "lat": 17.3965675,
+    "lng": 78.5341407,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:42.982Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sai Siddhartha Hospital - Jeedimetla",
@@ -4251,7 +5024,7 @@
     "lng": 78.4452274,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:20.030Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "Sai Nikith Speciality Hospital& Laproscopic Centre",
@@ -4336,7 +5109,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "10-01-80/1/2, Sri Raghavendra Nagar Colony, Jyothi Nagar, Hyderabad, Kharmanghat, Telangana 500079, India",
+    "phone": "+91 74160 62910",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sai%20Venkateshwara%20Hospital&query_place_id=ChIJWwWmhP2ZyzsRCO3tnONKhZM",
+    "rating": "3.3",
+    "review_count": 10,
+    "hours": "Open 24 hours",
+    "lat": 17.3444462,
+    "lng": 78.5298751,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:57.317Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Saivani Hospital",
@@ -4421,7 +5205,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "LIG 540, KPHB 7th Phase Rd, Kukatpally Housing Board Colony, K P H B Phase 7, Kukatpally, Hyderabad, Telangana 500085, India",
+    "phone": "+91 72078 09666",
+    "website": "https://www.google.com/maps/search/?api=1&query=SENTRUM%20DENTAL%20HOSPITAL%20%26%20Dr.%20RAJINI%20WOMEN'S%20CLINIC..&query_place_id=ChIJq57-7oCRyzsReW49Ud3HPek",
+    "rating": "4.7",
+    "review_count": 33,
+    "hours": "10:15\u202fAM to 9\u202fPM",
+    "lat": 17.4726585,
+    "lng": 78.3862628,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:28.551Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Seasons Hospitals",
@@ -4523,16 +5318,7 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null,
-    "address": "22-35, Malkajgiri Rd, RK Nagar Colony, Malkajgiri, Secunderabad, Telangana 500047, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=Ent%20Hospital&query_place_id=ChIJBwDAI7mbyzsRz67k_lyp49U",
-    "rating": "3.3",
-    "review_count": 16,
-    "lat": 17.4576077,
-    "lng": 78.5364706,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:49:50.906Z",
-    "match_score": 0.895
+    "num_reviews": null
   },
   {
     "hospital_name": "Shenoy Hospital",
@@ -4668,7 +5454,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "9G9C+66C, Sri Surya Bhawan, Gaddiannaram Road, Gaddi Annaram, Dilsukhnagar, Hyderabad, Telangana 500060, India",
+    "phone": "+91 40 4856 5777",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sigma%20Hospitals&query_place_id=ChIJz2wwnViYyzsR1hZ_hc1mBK4",
+    "rating": "3",
+    "review_count": 48,
+    "hours": "Open 24 hours",
+    "lat": 17.3680744,
+    "lng": 78.5205226,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:21.129Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Siddharth Eye Center",
@@ -4702,7 +5499,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Koti Maternity Hospital, Badi Chowdi, Kachiguda, Hyderabad, Telangana 500001, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Koti%20hospital&query_place_id=ChIJ_5DidzqZyzsR3pNhsPxlY9c",
+    "rating": "3.9",
+    "review_count": 161,
+    "lat": 17.385623,
+    "lng": 78.4876601,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:36.503Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sims Hospitals Multi Speciality Hospital",
@@ -4798,7 +5604,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "No 1, 13-21, Alwal Rd, Saraswathi Nagar Colony, Vaishnavi Arcade, Lothukunta, Alwal, Secunderabad, Telangana 500015, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Devi%20Hospital&query_place_id=ChIJaxTh1sKayzsRO6tsknF4R-0",
+    "rating": "4.8",
+    "review_count": 4,
+    "lat": 17.4934067,
+    "lng": 78.5126418,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:55.496Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Snr Galaxy Hospitals Hyderabad Pvt Ltd",
@@ -4815,7 +5630,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "No 50, Nagarjuna Sagar Rd, Sri Sai Nagar, Jahangir Nagar Colony, L. B. Nagar, Hyderabad, Chintalkunta, Telangana 500079, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Galaxy%20Hospitals&query_place_id=ChIJedzxsKCYyzsR4azjrBGcYI4",
+    "rating": "4.8",
+    "review_count": 4,
+    "lat": 17.3393825,
+    "lng": 78.5484581,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:30.222Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Soorya Orthopaedic Hospital",
@@ -4849,7 +5673,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "1-9-49/B/1/A, VST Main Rd, near E-Seva, Musheerabad, Ram Nagar, Hyderabad, Telangana 500020, India",
+    "phone": "+91 40 2762 8708",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sowmya%20Hospital&query_place_id=ChIJ7cUUApeZyzsRNhSgmFKUbc0",
+    "rating": "3.2",
+    "review_count": 111,
+    "hours": "Open 24 hours",
+    "lat": 17.4097696,
+    "lng": 78.5085382,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:21.251Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sowmya Multispeciality Hospital-Ramnagar",
@@ -4883,7 +5718,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "16-6-104 to 109, Old Kamal Theater Complex Chaderghat Road, Opp Niagara Hotel, Chaderghat, Hyderabad, Telangana 500024, India",
+    "phone": "+91 40 6810 6589",
+    "website": "https://www.google.com/maps/search/?api=1&query=CARE%20Hospitals%20Malakpet&query_place_id=ChIJA08S9C2YyzsRu3zI0LJRZ_4",
+    "rating": "4.6",
+    "review_count": 3963,
+    "hours": "Open 24 hours",
+    "lat": 17.3768915,
+    "lng": 78.4905862,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.349Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Spark Hospitals",
@@ -4962,7 +5808,7 @@
     "lng": 78.3964124,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:21.702Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Sridevi Matenity & Nursing Home",
@@ -5064,7 +5910,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "no.3-7/3/2, Main Road, nr. Sai Nagar Colony, Venkatramana Colony, Mansoorabad, Hyderabad, Telangana 500068, India",
+    "phone": "+91 83318 84108",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sri%20Sai%20Hospital&query_place_id=ChIJZav3iLGYyzsRkSyUw5cs_FY",
+    "rating": "4.7",
+    "review_count": 32,
+    "hours": "Open 24 hours",
+    "lat": 17.3528314,
+    "lng": 78.5602154,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:31.778Z",
+    "match_score": 0.8888888888888888
   },
   {
     "hospital_name": "Sri Sai Srinivasa Speciality Hospital",
@@ -5081,7 +5938,15 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Langer house, route, Bapu Nagar, Golconda Fort, Hyderabad, Telangana 500008, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sri%20Srinivasa%20multi%20speciality%20hospital&query_place_id=ChIJ_9BJdm6XyzsRJdnyRBU75TI",
+    "hours": "Open 24 hours",
+    "lat": 17.3779241,
+    "lng": 78.4195782,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:23.794Z",
+    "match_score": 0.868421052631579
   },
   {
     "hospital_name": "Srikara Hospitals",
@@ -5098,7 +5963,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "222, Phase, 2, Mythri Nagar, Hafeezpet, Madeenaguda, Hyderabad, Telangana 500049, India",
+    "phone": "+91 40 4747 0000",
+    "website": "https://www.google.com/maps/search/?api=1&query=Srikara%20Hospitals&query_place_id=ChIJExt3sGeSyzsRdQ3hD3JiUDk",
+    "rating": "4.7",
+    "review_count": 12069,
+    "hours": "Open 24 hours",
+    "lat": 17.492121,
+    "lng": 78.3480496,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:23.896Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Sri Sri Holistic Hospitals",
@@ -5116,17 +5992,17 @@
     "full_address": null,
     "is_recommended": false,
     "num_reviews": null,
-    "address": "MIG113 & 114, Rd Number 1, Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072, India",
+    "address": "1-2, Nizampet Rd, Survey 37, Nagarjuna Homes, Nizampet, Hyderabad, Telangana 500085, India",
     "phone": "+91 92402 12343",
-    "website": "https://www.google.com/maps/search/?api=1&query=Sri%20Sri%20Holistic%20Hospitals%20-%20Kukatpally&query_place_id=ChIJQRBzkpORyzsRPDmu8nSXayA",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sri%20Sri%20Holistic%C2%AE%EF%B8%8F%20Hospitals&query_place_id=ChIJ_RgwCwmayzsR6f1T_pO1YHo",
     "rating": "4.5",
-    "review_count": 1606,
+    "review_count": 8316,
     "hours": "Open 24 hours",
-    "lat": 17.4886186,
-    "lng": 78.400506,
+    "lat": 17.5022263,
+    "lng": 78.3889012,
     "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:49:47.493Z",
-    "match_score": 0.9299999999999999
+    "scraped_at": "2026-03-28T03:48:52.569Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Sri Srinivasa Hospital (Unit Of Marthala Hospitals Pvt Ltd)",
@@ -5226,7 +6102,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "APHB Colony, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sunrise%20Hospital&query_place_id=ChIJ89g8XLmTyzsRMSuk5vGglo0",
+    "rating": "5",
+    "review_count": 2,
+    "lat": 17.4506987,
+    "lng": 78.3561812,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:42.157Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sun Rise Hospitals",
@@ -5242,7 +6127,14 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "12-2-419/A/25, Street No. 2, Amba Gardens, Gudimalkapur, Hyderabad, Telangana 500006, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sun%20Rising%20Hospital&query_place_id=ChIJAQAwnRqXyzsRFd1tQP4jwEE",
+    "lat": 17.3924863,
+    "lng": 78.4409494,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:47:04.677Z",
+    "match_score": 0.7189189189189189
   },
   {
     "hospital_name": "Sunita Children'S Hospital",
@@ -5276,7 +6168,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "X roads, Nagole, Hyderabad, Telangana 500068, India",
+    "phone": "+91 40 2932 9999",
+    "website": "https://www.google.com/maps/search/?api=1&query=Supraja%20Hospitals&query_place_id=ChIJG-WSp9GYyzsR1XUbXh6ldbM",
+    "rating": "4.2",
+    "review_count": 1326,
+    "hours": "Open 24 hours",
+    "lat": 17.3767889,
+    "lng": 78.5583198,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:22.732Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Suraksha Diabetic Centre (P) Ltd.",
@@ -5321,7 +6224,7 @@
     "lng": 78.4805292,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:20.030Z",
-    "match_score": 0.8818181818181818
+    "match_score": 0.9311688311688312
   },
   {
     "hospital_name": "Susheela Hospital - Ramanthapur",
@@ -5338,7 +6241,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Susheela hospital, road no 3 SRK puram KOTHAPET, L. B. Nagar, Hyderabad, Telangana 500102, India",
+    "phone": "+91 40 2403 3151",
+    "website": "https://www.google.com/maps/search/?api=1&query=Susheela%20Hospital&query_place_id=ChIJwcYN_MOYyzsRgi_-TW01ifM",
+    "rating": "4.5",
+    "review_count": 153,
+    "hours": "9\u202fAM to 10\u202fPM",
+    "lat": 17.367821,
+    "lng": 78.5495731,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:59.377Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Susheela Hospital",
@@ -5354,18 +6268,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Susheela hospital, road no 3 SRK puram KOTHAPET, L. B. Nagar, Hyderabad, Telangana 500102, India",
-    "phone": "+91 40 2403 3151",
-    "website": "https://www.google.com/maps/search/?api=1&query=Susheela%20Hospital&query_place_id=ChIJwcYN_MOYyzsRgi_-TW01ifM",
-    "rating": "4.5",
-    "review_count": 153,
-    "hours": "9\u202fAM to 10\u202fPM",
-    "lat": 17.367821,
-    "lng": 78.5495731,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:49:59.377Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "S.V.Hospital",
@@ -5451,7 +6354,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Old Safilguda, 30-265/8/1A, Sri Venkateshwara Colony, Secunderabad, Telangana 500056, India",
+    "phone": "+91 40 2722 5834",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sai%20Swapna%20Hospital&query_place_id=ChIJm3RJaJmbyzsRz5zcsDXL18A",
+    "rating": "3.8",
+    "review_count": 17,
+    "hours": "8\u202fAM to 9\u202fPM",
+    "lat": 17.4708631,
+    "lng": 78.5481507,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:27.090Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Swaroopa Multispecilaity Hospital",
@@ -5502,7 +6416,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Anupuram Colony ECIL post, 100, Shiva Shakti Theatre Rd, Near Radhika Theater, Hyderabad, Telangana 500062, India",
+    "phone": "+91 40 2714 1145",
+    "website": "https://www.google.com/maps/search/?api=1&query=Thatha%20Hospital&query_place_id=ChIJzZMdsoGbyzsROGhkq0RY0pE",
+    "rating": "4",
+    "review_count": 308,
+    "hours": "Open 24 hours",
+    "lat": 17.476938,
+    "lng": 78.5628653,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:07.725Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "The Apollo Clinic-A S Rao Nagar",
@@ -5638,7 +6563,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Hyderabad - Nagarjuna Sagar Rd, APSEB Colony, Saraswathi Nagar, Hastinapuram, Hyderabad, Telangana 500079, India",
+    "phone": "+91 96666 61159",
+    "website": "https://www.google.com/maps/search/?api=1&query=TIRUMALA%20MULTI%20SPECIALITY%20HOSPITAL&query_place_id=ChIJf9uQt6qjyzsR_9Fjtd8jHeE",
+    "rating": "2.8",
+    "review_count": 32,
+    "hours": "Open 24 hours",
+    "lat": 17.3363608,
+    "lng": 78.5506255,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:28.867Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Trident Institute Of Medical Sciences",
@@ -5672,7 +6608,17 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "ECIL Cross Roads, near by Hero showroom, Kushaiguda Industrial Area, Kushaiguda, Hyderabad, Secunderabad, Telangana 500062, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Lifeline%20Tulasi%20Multispeciality%20Hospitals&query_place_id=ChIJN_5xu36cyzsRZV9msvdhhtA",
+    "rating": "4.6",
+    "review_count": 4117,
+    "hours": "Open 24 hours",
+    "lat": 17.4749177,
+    "lng": 78.5706754,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:49.272Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Udbhava Childrens Hospital",
@@ -5688,7 +6634,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "15, 16, & 17, Plot no 14, Miyapur Rd, behind Navya Grand Hotel, Nandini Nagar, Ambedkar Nagar, Hafeezpet, Hyderabad, Telangana 500049, India",
+    "phone": "+91 80191 14481",
+    "website": "https://www.google.com/maps/search/?api=1&query=UDBHAVA%20HOSPITALS&query_place_id=ChIJAQa7QMWTyzsRTAahxelyGwE",
+    "rating": "3.9",
+    "review_count": 731,
+    "hours": "Open 24 hours",
+    "lat": 17.4954772,
+    "lng": 78.3573183,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:52.568Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Unity Centre For Orthopaedics & Trauma",
@@ -5737,7 +6694,14 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Hyderabad, Telangana 500055, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Usha%20Mullapudi%20Hospital&query_place_id=ChIJBUw-RCuOyzsRMrRm_JG9v_Q",
+    "lat": 17.5226525,
+    "lng": 78.4287485,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:22.263Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Ushamohan Hospital",
@@ -5771,7 +6735,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "OPD - 120, Gleneagles Hospitals, Nagarjuna Sagar Rd, Saroornagar, Laxmi Enclave, Bhagya Nagar, Hyderabad, Telangana 500035, India",
+    "phone": "+91 92402 58836",
+    "website": "https://www.google.com/maps/search/?api=1&query=Dr.%20Vamshi%20V%20-%20Top%20Internal%20Medicine%20Specialist%20in%20Hyderabad%20%7C%20Gleneagles%20Hospitals%20%7C%2010%2B%20Yrs%20of%20Exp&query_place_id=ChIJx4-8N62ZyzsRrip9GbAbrnc",
+    "hours": "9\u202fAM to 8\u202fPM",
+    "lat": 17.3459353,
+    "lng": 78.539947,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:58.086Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Vanaja Hospitals - Dr.A.S. Rao Nagar",
@@ -5788,7 +6761,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "7, Sai Baba Temple Rd, Swamik Nagar, A. S. Rao Nagar, Secunderabad, Telangana 500062, India",
+    "phone": "+91 72070 33661",
+    "website": "https://www.google.com/maps/search/?api=1&query=Vanaja%20Diabetic%20%26%20Multi-Speciality%20Hospital%2C%20A%20S%20Rao%20Nagar%2C%20Hyderabad&query_place_id=ChIJ0XU7aZ2byzsRI-1a0RKOIWI",
+    "rating": "4.5",
+    "review_count": 439,
+    "hours": "Open 24 hours",
+    "lat": 17.477558,
+    "lng": 78.5529865,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:07.726Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-A. S.Rao Nagar",
@@ -5865,7 +6849,7 @@
     "lng": 78.5190467,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:50:18.590Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-Himayatnagar",
@@ -5898,18 +6882,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "First Floor, Metro Station, Balanagar Mandal, Door No 2-22-298, PNR Empire, above Lalitha Jewellers, Kukatpally, Hyderabad, Telangana 500072, India",
-    "phone": "+91 1800 571 2222",
-    "website": "https://www.google.com/maps/search/?api=1&query=Vasan%20Eye%20Care%20Hospital%20-%20(Kukatpally%2C%20Hyderabad)&query_place_id=ChIJSyZmL6mRyzsRUTqeiBVmu4w",
-    "rating": "4.7",
-    "review_count": 538,
-    "hours": "9\u202fAM to 8\u202fPM",
-    "lat": 17.4953165,
-    "lng": 78.3997285,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:24.164Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-Santosh Nagar",
@@ -6010,7 +6983,18 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "Shop no 44-009, near NTR statue, opp. chiru banglore bakery, Somaiah Nagar, Jagathgiri Gutta, Hyderabad, Telangana 500037, India",
+    "phone": "+91 86399 51130",
+    "website": "https://www.google.com/maps/search/?api=1&query=Vijaya%20Sree%20hospitals&query_place_id=ChIJ7f24ztCRyzsRLyoG0msftJI",
+    "rating": "4.3",
+    "review_count": 6,
+    "hours": "9:30\u202fAM to 2\u202fPM, 5:30 to 9:30\u202fPM",
+    "lat": 17.5009314,
+    "lng": 78.4290654,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.624Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Vijay Marie Hospital & Educational Society",
@@ -6027,7 +7011,17 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "address": "10-1-673-1, near Hanuman Temple, Veer Nagar, Saifabad, Hyderabad, Telangana 500004, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Vijay%20Marie%20Hospital&query_place_id=ChIJVVVVcV2XyzsRISn8RZtBJ60",
+    "rating": "3.4",
+    "review_count": 465,
+    "hours": "Open 24 hours",
+    "lat": 17.40753,
+    "lng": 78.4557671,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:20.825Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Viswas Multispeciality Hospital",
@@ -6188,18 +7182,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Opp Pillar No. 81, PVNR Expressway, Inner Ring Rd, Maruthi Nagar, Mehdipatnam, Hyderabad, Telangana 500008, India",
-    "phone": "+91 79979 96030",
-    "website": "https://www.google.com/maps/search/?api=1&query=Mythri%20Hospital%20Mehdipatnam&query_place_id=ChIJlbH5Bv6WyzsRRcvC2jqNJl0",
-    "rating": "4.6",
-    "review_count": 3477,
-    "hours": "Open 24 hours",
-    "lat": 17.3836741,
-    "lng": 78.4292547,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:18.350Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "Aditya Hospital",
@@ -6215,18 +7198,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "4-1-16, Tilak Rd, Bogulkunta, Abids, Hyderabad, Telangana 500001, India",
-    "phone": "+91 40 4142 4344",
-    "website": "https://www.google.com/maps/search/?api=1&query=Aditya%20Hospital&query_place_id=ChIJfa7mfmqayzsRsB9vPaC67CA",
-    "rating": "3.4",
-    "review_count": 547,
-    "hours": "Open 24 hours",
-    "lat": 17.3902372,
-    "lng": 78.4812222,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:21.128Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "Kamineni Hospital",
@@ -6242,7 +7214,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Bogulkunta, Abids, Hyderguda, Hyderabad, Telangana 500001, India",
+    "phone": "+91 78159 78159",
+    "website": "https://www.google.com/maps/search/?api=1&query=Kamineni%20Hospitals%20-%20Bogulkunta%2C%20King%20Koti&query_place_id=ChIJ9dYSX9eZyzsR--UM0-2aYeY",
+    "rating": "4.5",
+    "review_count": 1792,
+    "hours": "Open 24 hours",
+    "lat": 17.3926279,
+    "lng": 78.4797983,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.350Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Mahavir Hospital & Research Center",
@@ -6308,17 +7291,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true,
-    "address": "B-9, Sy. No.9/1/A Plot No.W-11 near SVC Cinema Theatre opp PVT Market Building Kothapet, Dilsukhnagar, Hyderabad, Telangana 500102, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=OMNI%20Hospitals&query_place_id=ChIJLxrsPumYyzsRfZ-VTG4ByZ0",
-    "rating": "4.3",
-    "review_count": 3442,
-    "hours": "Open 24 hours",
-    "lat": 17.3686811,
-    "lng": 78.5387329,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:19.237Z",
-    "match_score": 0.895
+    "is_recommended": true
   },
   {
     "hospital_name": "Neo Retina Eye Care Institute",
@@ -6350,7 +7323,17 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "address": "17-1-376/14, opp. lane of Yadagiri Theater, New Santoshnagar, Santosh Nagar, Hyderabad, Telangana 500059, India",
+    "phone": "+91 83417 68778",
+    "website": "https://www.google.com/maps/search/?api=1&query=Rainbow%20hospital&query_place_id=ChIJm3O4g8OZyzsRV-rr1mPs3mg",
+    "rating": "4.5",
+    "review_count": 4,
+    "lat": 17.3495903,
+    "lng": 78.507501,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:23.535Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Care Hospital-Banjara-Banjara Hills",
@@ -6414,7 +7397,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "address": "Building, Road no:12, Raichandani Construction, Sri Ram Nagar Colony, Banjara Hills, Hyderabad, Telangana 500028, India",
+    "phone": "+91 91445 14459",
+    "website": "https://www.google.com/maps/search/?api=1&query=TX%20Hospitals%20Banjara%20Hills&query_place_id=ChIJnc_Ad_6XyzsRra12TaQv6P4",
+    "rating": "4.8",
+    "review_count": 7716,
+    "hours": "Open 24 hours",
+    "lat": 17.4077701,
+    "lng": 78.4446554,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:22.129Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "HIGH SIGHT SUPER SPECIALITY EYE HOSPITAL",
@@ -6526,7 +7520,14 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "address": "VIP Hills, Silicon Valley, Madhapur, Hyderabad, Telangana 500081, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Epione%20Hospital&query_place_id=ChIJD2Mfd2CRyzsR6M2Fi0gdRqE",
+    "lat": 17.4457199,
+    "lng": 78.3861925,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:38.896Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-Jubilee Hills",
@@ -6639,7 +7640,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "address": "Mumtaz Complex, Junction, near Cost To Cost, Rethibowli, Gudimalkapur, Hyderabad, Telangana 500006, India",
+    "phone": "+91 95949 24235",
+    "website": "https://www.google.com/maps/search/?api=1&query=Dr%20Agarwals%20Eye%20Hospital&query_place_id=ChIJAwBvFbOZyzsRkt7PjhY0Zas",
+    "rating": "4.9",
+    "review_count": 8728,
+    "hours": "9\u202fAM to 7\u202fPM",
+    "lat": 17.3954944,
+    "lng": 78.4302606,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:23.795Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Pragna Hospital",
@@ -6703,18 +7715,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true,
-    "address": "06-6-903/A & B, Raj Bhavan Rd, Durga Nagar Colony, Somajiguda, Hyderabad, Telangana 500082, India",
-    "phone": "+91 90000 39595",
-    "website": "https://www.google.com/maps/search/?api=1&query=The%20Deccan%20Hospital&query_place_id=ChIJe6wEPkuXyzsRIEbP3wakJHA",
-    "rating": "4.7",
-    "review_count": 3418,
-    "hours": "Open 24 hours",
-    "lat": 17.4247384,
-    "lng": 78.4554823,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:10.162Z",
-    "match_score": 1.0
+    "is_recommended": true
   },
   {
     "hospital_name": "Vascular Care Center",
@@ -6746,18 +7747,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true,
-    "address": "Plot No. 6-3, 1106/1/A, Raj Bhavan Rd, adj. HSBC bank, Nishat Bagh Colony, Somajiguda, Hyderabad, Telangana 500082, India",
-    "phone": "+91 40 4720 1201",
-    "website": "https://www.google.com/maps/search/?api=1&query=Zoi%20Hospitals%2C%20Somajiguda&query_place_id=ChIJ_fqblrSQyzsRrJjZvFV_7_4",
-    "rating": "4.5",
-    "review_count": 875,
-    "hours": "Open 24 hours",
-    "lat": 17.4277794,
-    "lng": 78.4573486,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:10.162Z",
-    "match_score": 0.9299999999999999
+    "is_recommended": true
   },
   {
     "hospital_name": "Yashoda Super Speciality Hospital Raj Bhavan Road",
@@ -6821,7 +7811,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "1-2-365/36/6&7, Ramakrishna Mutt Road, opposite Indira Park Road, Valmiki Nagar, Domalguda, Himayatnagar, Hyderabad, Telangana 500080, India",
+    "phone": "+91 40 2763 4463",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sai%20Vani%20Super%20Speciality%20Hospital&query_place_id=ChIJWwzDcuSZyzsRLS9LrfZ73YY",
+    "rating": "3.4",
+    "review_count": 436,
+    "hours": "Open 24 hours",
+    "lat": 17.4109667,
+    "lng": 78.4835584,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:20.174Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Remedy Hospital",
@@ -6837,7 +7838,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "address": "Road No. 4, opp. Chandana Brothers Show Room, Kukatpally Housing Board Colony, Dharma Reddy Colony Phase I, Kukatpally, Hyderabad, Telangana 500072, India",
+    "phone": "+91 96663 63699",
+    "website": "https://www.google.com/maps/search/?api=1&query=Remedy%20Hospitals%20-%20Multi%20Speciality%20Hospital%20at%20KPHB&query_place_id=ChIJS-zcHe2RyzsRsIsFMXliVMo",
+    "rating": "4.4",
+    "review_count": 2302,
+    "hours": "Open 24 hours",
+    "lat": 17.4947034,
+    "lng": 78.3985733,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:19.355Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Bhavya Multi Speciality Hospital",
@@ -6885,7 +7897,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Sushma sai Nagar colony, Vanasthalipuram Rd, near Sushma theatre, beside SRO Building, Dwarakamai Nagar Colony, Vanasthalipuram, Hyderabad, Telangana 500070, India",
+    "phone": "+91 40 2412 6996",
+    "website": "https://www.google.com/maps/search/?api=1&query=Rajya%20Laxmi%20Hospitals&query_place_id=ChIJCWZQ9_yhyzsRwQnEpL44Cv4",
+    "rating": "4.4",
+    "review_count": 36,
+    "hours": "8:30\u202fAM to 10\u202fPM",
+    "lat": 17.3358244,
+    "lng": 78.5747116,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:28.867Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Tanvir Hospital",
@@ -6904,7 +7927,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "8-3-833, Plot No. 100, 1st Phase Road, Sri Nagar Colony, Kamalapuri Colony, Hyderabad, Telangana 500073, India",
+    "phone": "+91 99519 11155",
+    "website": "https://www.google.com/maps/search/?api=1&query=Tanvir%20Hospital&query_place_id=ChIJ2WE1PtSQyzsROAv8RQDW3AM",
+    "rating": "4.6",
+    "review_count": 1594,
+    "hours": "Open 24 hours",
+    "lat": 17.4299944,
+    "lng": 78.4341511,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:20.124Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Vikram Hospitals",
@@ -6920,18 +7954,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Madhapur, 1-98/90/26, Hitech City Rd, Beside IOC Petrol Bunk, Phase 2, Kavuri Hills, Madhapur, Hyderabad, Telangana 500081, India",
-    "phone": "+91 90300 00200",
-    "website": "https://www.google.com/maps/search/?api=1&query=Vikram%20Hospital&query_place_id=ChIJ5fUdclyRyzsRHNNrezASXsg",
-    "rating": "2.9",
-    "review_count": 255,
-    "hours": "Open 24 hours",
-    "lat": 17.4407343,
-    "lng": 78.3916705,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:20.174Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-Ameerpet",
@@ -6998,7 +8021,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Main Road Madinaguda, Miyapur, Hyderabad, Telangana 500049, India",
+    "phone": "+91 93461 45678",
+    "website": "https://www.google.com/maps/search/?api=1&query=Paramitha%20mathru%20children%20and%20women%20hospital&query_place_id=ChIJlfaLXGGSyzsRS2_aSej6m7c",
+    "rating": "3.4",
+    "review_count": 193,
+    "hours": "Open 24 hours",
+    "lat": 17.4948176,
+    "lng": 78.3432561,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:52.569Z",
+    "match_score": 0.8605633802816901
   },
   {
     "hospital_name": "Sreshta Orange Hospitals",
@@ -7154,7 +8188,7 @@
     "lng": 78.4093686,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:18.713Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Apoorva Hospital",
@@ -7170,7 +8204,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "12-2-823/A/46, Santosh Nagar Colony Lane, St Anns Rd, opposite Pillar Number 19, Gudimalkapur, Hyderabad, Telangana 500006, India",
+    "phone": "+91 90326 63232",
+    "website": "https://www.google.com/maps/search/?api=1&query=Apoorva%20Hospital&query_place_id=ChIJMZ6_oBuXyzsRgqrjNCFrK7Q",
+    "rating": "4.4",
+    "review_count": 595,
+    "hours": "Open 24 hours",
+    "lat": 17.3913857,
+    "lng": 78.4369856,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:37.957Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Rainbow Hospital for Women & Children-Kondapur",
@@ -7266,15 +8311,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Borabanda - Allahpur Rd, Site-3, NRR Puram, Borabanda, Hyderabad, Telangana 500114, India",
-    "phone": "+91 93816 70636",
-    "website": "https://www.google.com/maps/search/?api=1&query=MULTISPECIALITY%20HOSPITAL&query_place_id=ChIJU4cDu62RyzsRdRZroGyd4Mg",
-    "lat": 17.4510182,
-    "lng": 78.4069481,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:22.349Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "Bristlecone Hospitals Pvt Ltd",
@@ -7301,7 +8338,7 @@
     "lng": 78.4961504,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:20.175Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "Aware Gleneagles Global Hospital-Saroor Nagar",
@@ -7333,18 +8370,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "1-56/6/40& 41, Pranaam Hospital Ln, Ramakrishna Nagar, Mythri Nagar, Miyapur, Madeenaguda, Hyderabad, Telangana 500049, India",
-    "phone": "+91 77320 38844",
-    "website": "https://www.google.com/maps/search/?api=1&query=Pranaam%20Hospitals&query_place_id=ChIJrYq2ZWGSyzsRSK3XHCMidpM",
-    "rating": "4.1",
-    "review_count": 3569,
-    "hours": "Open 24 hours",
-    "lat": 17.4944967,
-    "lng": 78.342745,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:17.006Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "Hyderabad Kidney & Laparoscopic Centre (A Unit of J V P Super Speciality Hospitals Pvt Ltd)",
@@ -7410,7 +8436,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Madhura Swagruha Foods, Srinivasa Nagar W, near South india bank, Srinivasa Nagar West, Ameerpet, Hyderabad, Telangana 500038, India",
+    "phone": "+91 40 2373 2617",
+    "website": "https://www.google.com/maps/search/?api=1&query=Raghava%20Multi%20Speciality%20Hospital&query_place_id=ChIJ____v8WQyzsRGE5ZRRXFOWU",
+    "rating": "3.6",
+    "review_count": 128,
+    "hours": "9\u202fAM to 10\u202fPM",
+    "lat": 17.4387656,
+    "lng": 78.4421569,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:19.275Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Aravind Eye Hospital Pvt. Ltd.",
@@ -7426,15 +8463,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true,
-    "address": "Shop No 1,road, 6, RTC Colony Rd, near Metro, Snehapuri Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=EYE%20HOSPITAL%20PVT%20LTD&query_place_id=ChIJKSesaACZyzsRPgoZ5YcHyJw",
-    "hours": "9\u202fAM to 8\u202fPM",
-    "lat": 17.3491236,
-    "lng": 78.5488912,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:09.624Z",
-    "match_score": 0.895
+    "is_recommended": true
   },
   {
     "hospital_name": "Sri Shankara Nethralaya",
@@ -7450,7 +8479,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "1-116/1, NH 65, opposite KFC, Friends Colony, Indira Nagar Colony, Miyapur, Hyderabad, Telangana 500049, India",
+    "phone": "+91 99596 35000",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sri%20Shankara%20Nethralaya%20Eye%20Hospital&query_place_id=ChIJtfCh_WuSyzsRRXK-abrYeMU",
+    "rating": "4.6",
+    "review_count": 946,
+    "hours": "10\u202fAM to 7\u202fPM",
+    "lat": 17.4956547,
+    "lng": 78.3558826,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:55.469Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Sunrise Super Speciality Childrens Hospital",
@@ -7499,18 +8539,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "1-9-49/B/1/A, VST Main Rd, near E-Seva, Musheerabad, Ram Nagar, Hyderabad, Telangana 500020, India",
-    "phone": "+91 40 2762 8708",
-    "website": "https://www.google.com/maps/search/?api=1&query=Sowmya%20Hospital&query_place_id=ChIJ7cUUApeZyzsRNhSgmFKUbc0",
-    "rating": "3.2",
-    "review_count": 111,
-    "hours": "Open 24 hours",
-    "lat": 17.4097696,
-    "lng": 78.5085382,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:21.251Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "Oarchid Hospital",
@@ -7542,14 +8571,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "3-10-85/C, near Ayappa Temple, Gokhale Nagar, Ramanthapur, Hyderabad, Telangana 500013, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=Sanjeevini%20Hospital&query_place_id=ChIJVVVVZRCZyzsR0xHPAoUwzCM",
-    "lat": 17.3965675,
-    "lng": 78.5341407,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:42.982Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "Icon Hospitals",
@@ -7565,18 +8587,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "540/1&2, JNTU - Hitech City Rd, Kukatpally Housing Board Colony, K P H B Phase 6, Kukatpally, Hyderabad, Telangana 500085, India",
-    "phone": "+91 40 2315 9666",
-    "website": "https://www.google.com/maps/search/?api=1&query=Icon%20Hospitals&query_place_id=ChIJoS-LtI6RyzsR_ePgAZEPJfQ",
-    "rating": "3.8",
-    "review_count": 415,
-    "hours": "Open 24 hours",
-    "lat": 17.4853561,
-    "lng": 78.3898974,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:49:19.356Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "Sri Balaji Multispeciality Hospital",
@@ -7640,7 +8651,14 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "PRASHAMSA FERTILITY CENTRE C/o Prashamsa Hospital, Temple Alwal, Secunderabad, Telangana 500010, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=PRASHAMSA%20FERTILITY&query_place_id=ChIJeUazrUKbyzsRtnA1dRQnmO0",
+    "lat": 17.5029978,
+    "lng": 78.5091327,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:13.121Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Peoples Hospital",
@@ -7704,15 +8722,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Shop No 1,road, 6, RTC Colony Rd, near Metro, Snehapuri Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=EYE%20HOSPITAL%20PVT%20LTD&query_place_id=ChIJKSesaACZyzsRPgoZ5YcHyJw",
-    "hours": "9\u202fAM to 8\u202fPM",
-    "lat": 17.3491236,
-    "lng": 78.5488912,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:09.624Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "Vcare Hospitals Multispeciality",
@@ -7771,7 +8781,7 @@
     "lng": 78.5270041,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:48:23.535Z",
-    "match_score": 0.8999999999999999
+    "match_score": 0.9571428571428571
   },
   {
     "hospital_name": "Spark Health Clinical Services Pvt Ltd",
@@ -7803,18 +8813,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "X roads, Nagole, Hyderabad, Telangana 500068, India",
-    "phone": "+91 40 2932 9999",
-    "website": "https://www.google.com/maps/search/?api=1&query=Supraja%20Hospitals&query_place_id=ChIJG-WSp9GYyzsR1XUbXh6ldbM",
-    "rating": "4.2",
-    "review_count": 1326,
-    "hours": "Open 24 hours",
-    "lat": 17.3767889,
-    "lng": 78.5583198,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:49:22.732Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "M.S. Reddy Lions Eye Hospital",
@@ -7840,7 +8839,7 @@
     "lng": 78.5632055,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:50.906Z",
-    "match_score": 0.9872727272727273
+    "match_score": 1.0
   },
   {
     "hospital_name": "Srinivasa Hospital",
@@ -7856,7 +8855,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "plot number: 74, Sri Sai Niwas Residency, RK Enclave, opposite to Srinivasa Hospital, Chakhra Enclave, Kandiguda, Sainikpuri, Secunderabad, Telangana 500094, India",
+    "phone": "+91 40 2711 6587",
+    "website": "https://www.google.com/maps/search/?api=1&query=Srinivasa%20Hospital%20%7C%20Multispecialty%20Hospital%20%7C%20Kandiguda%2C%20Sainikpuri&query_place_id=ChIJ89qJohObyzsRSirWctZZo7g",
+    "rating": "4.5",
+    "review_count": 147,
+    "hours": "Open 24 hours",
+    "lat": 17.4943887,
+    "lng": 78.5400923,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:48.523Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Motherhood Fertility Centre",
@@ -7920,15 +8930,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Borabanda - Allahpur Rd, Site-3, NRR Puram, Borabanda, Hyderabad, Telangana 500114, India",
-    "phone": "+91 93816 70636",
-    "website": "https://www.google.com/maps/search/?api=1&query=MULTISPECIALITY%20HOSPITAL&query_place_id=ChIJU4cDu62RyzsRdRZroGyd4Mg",
-    "lat": 17.4510182,
-    "lng": 78.4069481,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:22.349Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "Manas Eye Hospital",
@@ -8052,7 +9054,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "F8WW+5C2, Mumbai Highway Rd, Viswaswara Nagar Colony, Tiwari Nagar, Madeenaguda, Hyderabad, Telangana 500049, India",
+    "phone": "+91 72070 04103",
+    "website": "https://www.google.com/maps/search/?api=1&query=VIJAYA%20HOSPITAL%2C%20MADINAGUDA&query_place_id=ChIJLxfCHKWTyzsRtI4fMV7Kb7w",
+    "rating": "3.8",
+    "review_count": 62,
+    "hours": "Open 24 hours",
+    "lat": 17.4953774,
+    "lng": 78.3459274,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.623Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Shreshtas Sushruth Hospital",
@@ -8084,18 +9097,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Bairamalguda Rd, Pavanpuri Colony, APSRTC Officers Colony, Kharmanghat, Hyderabad, Telangana 500079, India",
-    "phone": "+91 93460 28311",
-    "website": "https://www.google.com/maps/search/?api=1&query=Jeevan%20Hospital&query_place_id=ChIJXSoHI4SYyzsR74RdCrzJKCY",
-    "rating": "4.1",
-    "review_count": 458,
-    "hours": "Open 24 hours",
-    "lat": 17.3448748,
-    "lng": 78.5270041,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:48:23.535Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "Medicover Hospital-Patrika Nagar",
@@ -8175,7 +9177,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "address": "Flat No 6, Yashodara Nagar, Sagar Ring Road Sagar Road, 7-4-11/10, Road, Sri Sai Nagar, Jahangir Nagar Colony, L. B. Nagar, Hyderabad, Chintalkunta, Telangana 500074, India",
+    "phone": "+91 74160 49619",
+    "website": "https://www.google.com/maps/search/?api=1&query=Medicare%20Hospital&query_place_id=ChIJHQD0UaOYyzsRrgsQ6MUUqzU",
+    "rating": "4.2",
+    "review_count": 59,
+    "hours": "Open 24 hours",
+    "lat": 17.340281,
+    "lng": 78.5500215,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.935Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sri Kara Hospitals",
@@ -8207,7 +9220,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Road No 1, Subashnagar Quthbullapur, Plot No 1, Medchal Rd, Bhagya Lakshmi Colony, Subhash Nagar, Jeedimetla, Hyderabad, Telangana 500055, India",
+    "phone": "+91 88866 62501",
+    "website": "https://www.google.com/maps/search/?api=1&query=Lakshmi%20Sailaja%20Hospital&query_place_id=ChIJY5p6hBqQyzsRUsDGln0CyGI",
+    "rating": "4.4",
+    "review_count": 15,
+    "hours": "10\u202fAM to 9\u202fPM",
+    "lat": 17.508474,
+    "lng": 78.4614723,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:08.500Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Kakatiya Hospital",
@@ -8223,18 +9247,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "62/135, near Osman Bakers, Kondapur, Anjaiah Nagar, Gachibowli, Hyderabad, Telangana 500084, India",
-    "phone": "+91 90320 06108",
-    "website": "https://www.google.com/maps/search/?api=1&query=Kakatiya%20Hospital&query_place_id=ChIJl6_fl8aTyzsRVDzEMXjmJQw",
-    "rating": "3.9",
-    "review_count": 228,
-    "hours": "Open 24 hours",
-    "lat": 17.4515906,
-    "lng": 78.3668489,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:43.913Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "Lakshmi Sailaja Hospital",
@@ -8250,18 +9263,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Road No 1, Subashnagar Quthbullapur, Plot No 1, Medchal Rd, Bhagya Lakshmi Colony, Subhash Nagar, Jeedimetla, Hyderabad, Telangana 500055, India",
-    "phone": "+91 88866 62501",
-    "website": "https://www.google.com/maps/search/?api=1&query=Lakshmi%20Sailaja%20Hospital&query_place_id=ChIJY5p6hBqQyzsRUsDGln0CyGI",
-    "rating": "4.4",
-    "review_count": 15,
-    "hours": "10\u202fAM to 9\u202fPM",
-    "lat": 17.508474,
-    "lng": 78.4614723,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:08.500Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "MCS Neuro Hospital",
@@ -8293,7 +9295,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Metro Pillar Number 788, FCQ5+CX9, opposite NH65, Bagh Ameer, Sumitra Nagar Colony, Kukatpally, Hyderabad, Telangana 500072, India",
+    "phone": "+91 90531 08108",
+    "website": "https://www.google.com/maps/search/?api=1&query=Ankura%20Hospital%20for%20Women%20%26%20Children%20-%20Gynecologist%20%26%20Pediatrician%20in%20Kukatpally%2C%20Hyderabad%20(This%20is%20Our%20New%20Location)&query_place_id=ChIJAbG044CRyzsRBkuLkqvi-wI",
+    "rating": "4.5",
+    "review_count": 4878,
+    "hours": "Open 24 hours",
+    "lat": 17.4884021,
+    "lng": 78.4098096,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:20.030Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Continental Hospitals Ltd",
@@ -8341,18 +9354,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "112, 15/A/24, 1, E Anandbagh Main Rd, Malkajgiri, Hyderabad, Telangana 500047, India",
-    "phone": "+91 76590 47155",
-    "website": "https://www.google.com/maps/search/?api=1&query=ADR%20Hospitals%20-%20Best%20Multispeciality%20Hospital%20in%20Malkajgiri%20%7C%20Hyderabad&query_place_id=ChIJUc7JdcmbyzsRNs0K8x9Q0fY",
-    "rating": "4.3",
-    "review_count": 559,
-    "hours": "Open 24 hours",
-    "lat": 17.458274,
-    "lng": 78.5379017,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:20.175Z",
-    "match_score": 0.9299999999999999
+    "is_recommended": false
   },
   {
     "hospital_name": "Neo BBC New Born & Childrens Hospital",
@@ -8400,7 +9402,17 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "3-3-273, LB Nagar - Uppal Rd, Kamala Nagar, Suvidha Arcade, RTC Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Shine%20Children's%20Hospital&query_place_id=ChIJl9igHaWYyzsRPskEoAATpoM",
+    "rating": "2.3",
+    "review_count": 56,
+    "hours": "Open 24 hours",
+    "lat": 17.3484883,
+    "lng": 78.5522552,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:31.778Z",
+    "match_score": 0.7361702127659575
   },
   {
     "hospital_name": "Happy Childrens Hospital @ Chintal",
@@ -8448,18 +9460,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "plot no 4, Old Mumbai Hwy, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032, India",
-    "phone": "+91 40 6810 1111",
-    "website": "https://www.google.com/maps/search/?api=1&query=Himagiri%20Hospitals&query_place_id=ChIJnVWgoJWTyzsRXLn3cNITAqo",
-    "rating": "4.3",
-    "review_count": 4463,
-    "hours": "Open 24 hours",
-    "lat": 17.4423108,
-    "lng": 78.3587114,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:18.350Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "Citizens Hospital",
@@ -8523,18 +9524,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Metro Pillar Number 788, FCQ5+CX9, opposite NH65, Bagh Ameer, Sumitra Nagar Colony, Kukatpally, Hyderabad, Telangana 500072, India",
-    "phone": "+91 90531 08108",
-    "website": "https://www.google.com/maps/search/?api=1&query=Ankura%20Hospital%20for%20Women%20%26%20Children%20-%20Gynecologist%20%26%20Pediatrician%20in%20Kukatpally%2C%20Hyderabad%20(This%20is%20Our%20New%20Location)&query_place_id=ChIJAbG044CRyzsRBkuLkqvi-wI",
-    "rating": "4.5",
-    "review_count": 4878,
-    "hours": "Open 24 hours",
-    "lat": 17.4884021,
-    "lng": 78.4098096,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:49:20.030Z",
-    "match_score": 0.855
+    "is_recommended": false
   },
   {
     "hospital_name": "Eye Care Hyderabad",
@@ -8577,7 +9567,7 @@
     "lng": 78.5006809,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:22.350Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "Dr.Rajashekar Reddy Laparoscopy Hospital",
@@ -8609,15 +9599,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true,
-    "address": "Shop No 1,road, 6, RTC Colony Rd, near Metro, Snehapuri Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=EYE%20HOSPITAL%20PVT%20LTD&query_place_id=ChIJKSesaACZyzsRPgoZ5YcHyJw",
-    "hours": "9\u202fAM to 8\u202fPM",
-    "lat": 17.3491236,
-    "lng": 78.5488912,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:09.624Z",
-    "match_score": 0.895
+    "is_recommended": true
   },
   {
     "hospital_name": "Kakatiya Hospitals",
@@ -8789,18 +9771,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "11-11-739/1&2, NH 65, Gaddiannaram, Dilsukhnagar, Hyderabad, Telangana 500060, India",
-    "phone": "+91 89089 01188",
-    "website": "https://www.google.com/maps/search/?api=1&query=Sreshta%20Sri%20Kamala%20Hospitals&query_place_id=ChIJPbkMSPaYyzsROKrLrqCEPOw",
-    "rating": "3.9",
-    "review_count": 568,
-    "hours": "Open 24 hours",
-    "lat": 17.3683398,
-    "lng": 78.5221415,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:18.935Z",
-    "match_score": 0.9299999999999999
+    "is_recommended": false
   },
   {
     "hospital_name": "Yashoda Hospital",
@@ -8816,7 +9787,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Alexander Rd, Kummari Guda, Shivaji Nagar, Secunderabad, Telangana 500003, India",
+    "phone": "+91 40 4567 4567",
+    "website": "https://www.google.com/maps/search/?api=1&query=Yashoda%20Hospitals%20%7C%20Best%20Hospital%20in%20Secunderabad&query_place_id=ChIJoyhFwheayzsRTRFAMipoa2w",
+    "rating": "4.7",
+    "review_count": 27286,
+    "hours": "Open 24 hours",
+    "lat": 17.4417544,
+    "lng": 78.4971248,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:07.724Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Sri Srinivasa Hospital",
@@ -8864,7 +9846,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Plot No. 61, Near Kukatpally Bus Stop, Kumar Road, Balaji Nagar Main Rd, Balaji Nagar, Kukatpally, Hyderabad, Telangana 500072, India",
+    "phone": "+91 96180 50821",
+    "website": "https://www.google.com/maps/search/?api=1&query=Prerana%20Hospital&query_place_id=ChIJ9-84wbqRyzsRoLr7XAL9N8I",
+    "rating": "4.1",
+    "review_count": 71,
+    "hours": "Open 24 hours",
+    "lat": 17.4848373,
+    "lng": 78.4097091,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:20.030Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Sunshine Hospital A Unit Of Rajyalakshmi Health Care Private Limited",
@@ -8896,7 +9889,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "SREE RAM, Bhanu Nagar Colony Main Rd, beside Bajaj electronics, Sriram Nagar Colony, Sai Nagar, Saroor Nagar East, Kharmanghat, Hyderabad, Telangana 500035, India",
+    "phone": "+91 73306 73762",
+    "website": "https://www.google.com/maps/search/?api=1&query=SREE%20SREYAS%20HOSPITAL&query_place_id=ChIJ____s4WYyzsRHid7eISwQpI",
+    "rating": "4.7",
+    "review_count": 53,
+    "hours": "9\u202fAM to 10\u202fPM",
+    "lat": 17.3458143,
+    "lng": 78.528983,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:23.535Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "Ravi Hospital",
@@ -8928,7 +9932,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Malkajgiri Rd, Vimala Devi Nagar Colony, Sivapuri Colony, Malkajgiri, Secunderabad, Telangana 500047, India",
+    "phone": "+91 82525 12345",
+    "website": "https://www.google.com/maps/search/?api=1&query=SOLIS%20EYE%20CARE%20HOSPITALS%20PVT%20LTD&query_place_id=ChIJVeouHlqbyzsRe_zgNHsDlBQ",
+    "rating": "4.8",
+    "review_count": 143,
+    "hours": "10\u202fAM to 8:30\u202fPM",
+    "lat": 17.4558119,
+    "lng": 78.5360217,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:52.956Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "R K Hospital",
@@ -9051,7 +10066,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "1-66/AIG/2 to 5, Mindspace Rd, P Janardhan Reddy Nagar, Gachibowli, Hyderabad, Telangana 500032, India",
+    "phone": "+91 40 4244 4222",
+    "website": "https://www.google.com/maps/search/?api=1&query=AIG%20Hospitals&query_place_id=ChIJZyT5_umTyzsR1xWsZCiId4s",
+    "rating": "4.2",
+    "review_count": 19316,
+    "hours": "Open 24 hours",
+    "lat": 17.443272,
+    "lng": 78.3662765,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:18.349Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "S V Multispeciality Hospital",
@@ -9078,7 +10104,7 @@
     "lng": 78.5386211,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:56.649Z",
-    "match_score": 0.9196721311475409
+    "match_score": 0.9852459016393442
   },
   {
     "hospital_name": "Mana Hospitals",
@@ -9095,16 +10121,16 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "address": "Mana hospiotal, Mana Hospital, 498, Road No. 2, Chaitanya Nagar, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana 500072, India",
-    "phone": "+91 72880 40404",
-    "website": "https://www.google.com/maps/search/?api=1&query=Mana%20Hospitals&query_place_id=ChIJrYvlt8CRyzsROp7ISSzoI20",
-    "rating": "3.3",
-    "review_count": 443,
+    "address": "Plot No 219, beside SBI Bank, Mahadevapuram Colony, Gajularamaram, Hyderabad, Telangana 500072, India",
+    "phone": "+91 99669 94859",
+    "website": "https://www.google.com/maps/search/?api=1&query=Mana%20Hospitals%20-%20Multispeciality%20Hospital%20in%20Gajularamaram%20%7C%20Hyderabad&query_place_id=ChIJI6uvO0KRyzsRtBvk3gaDRTA",
+    "rating": "4.6",
+    "review_count": 156,
     "hours": "Open 24 hours",
-    "lat": 17.4949739,
-    "lng": 78.4120564,
+    "lat": 17.5166458,
+    "lng": 78.4144235,
     "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:49:19.355Z",
+    "scraped_at": "2026-03-23T15:00:17.006Z",
     "match_score": 1.0
   },
   {
@@ -9153,18 +10179,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "15, 16, & 17, Plot no 14, Miyapur Rd, behind Navya Grand Hotel, Nandini Nagar, Ambedkar Nagar, Hafeezpet, Hyderabad, Telangana 500049, India",
-    "phone": "+91 80191 14481",
-    "website": "https://www.google.com/maps/search/?api=1&query=UDBHAVA%20HOSPITALS&query_place_id=ChIJAQa7QMWTyzsRTAahxelyGwE",
-    "rating": "3.9",
-    "review_count": 731,
-    "hours": "Open 24 hours",
-    "lat": 17.4954772,
-    "lng": 78.3573183,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:48:52.568Z",
-    "match_score": 1.0
+    "is_recommended": false
   },
   {
     "hospital_name": "Dr P Siva Reddy Eye Hospital",
@@ -9254,7 +10269,7 @@
     "lng": 78.5359071,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:21.129Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Alavi Hospital A Unit of Sri Shivani Health Care",
@@ -9382,7 +10397,16 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "9GF9+VPJ, Street Number 4, Sarita Arcade, SBI Colony, 20-17, Hyderabad, Telangana 500036, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Amma%20Hospital&query_place_id=ChIJq6rGVfCYyzsRNjdjtUC6lVs",
+    "rating": "4.8",
+    "review_count": 12,
+    "lat": 17.3747232,
+    "lng": 78.5192763,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-23T15:00:23.794Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sahaara Hospital",
@@ -9398,7 +10422,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Kamineni Hospital Bypass Rd, opp. Me Reddy Function Hall, Indira Nagar Colony Phase-2, Mansoorabad, Chitraseema Nagar, Mansoorabad, Hyderabad, Telangana 500068, India",
+    "phone": "+91 99883 82222",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sahaara%20Hospitals&query_place_id=ChIJKXJNx0yfyzsRZ8zeBc9X1_g",
+    "rating": "4.4",
+    "review_count": 111,
+    "hours": "Open 24 hours",
+    "lat": 17.3406128,
+    "lng": 78.5717964,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:58.397Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "Neo Candy Childrens Hospital Pvt Ltd",
@@ -9430,18 +10465,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Mahila Mandali Bhavanam, 25-29, Rd Number 1, R.C. Puram, Mayuri Nagar, Kakatiya Nagar, Bharat Heavy Electricals Limited, Ramachandrapuram, Hyderabad, Telangana 502032, India",
-    "phone": "+91 85005 08108",
-    "website": "https://www.google.com/maps/search/?api=1&query=N%20Care%20Hospitals&query_place_id=ChIJwyBB1zqTyzsR5Zp-baELzCs",
-    "rating": "4.5",
-    "review_count": 391,
-    "hours": "Open 24 hours",
-    "lat": 17.5082047,
-    "lng": 78.3029198,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:48:42.500Z",
-    "match_score": 0.8999999999999999
+    "is_recommended": false
   },
   {
     "hospital_name": "Hyderabad Urology And Andrology Hospital",
@@ -9473,7 +10497,17 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "6-1 103/1, CRPF Rd, Abhinav Colony, Walker Town, Padmarao Nagar, Secunderabad, Hyderabad, Telangana 500020, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Pulse%20Hospitals&query_place_id=ChIJv1agvI6ZyzsR9TD4EvXPALo",
+    "rating": "3.7",
+    "review_count": 195,
+    "hours": "Open 24 hours",
+    "lat": 17.4217241,
+    "lng": 78.5041712,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:20.827Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Tricolour Hospital and Critical Care",
@@ -9516,15 +10550,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Borabanda - Allahpur Rd, Site-3, NRR Puram, Borabanda, Hyderabad, Telangana 500114, India",
-    "phone": "+91 93816 70636",
-    "website": "https://www.google.com/maps/search/?api=1&query=MULTISPECIALITY%20HOSPITAL&query_place_id=ChIJU4cDu62RyzsRdRZroGyd4Mg",
-    "lat": 17.4510182,
-    "lng": 78.4069481,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:22.349Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "PRK Hospitals Private Limited",
@@ -9572,7 +10598,17 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "2, Saroor Nagar Rd, Rajyalaxmi Nagar, SBH Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Cure%20Hospital%20(Dr.Ibrahim)&query_place_id=ChIJ4YUpxMyZyzsRDbFeW7dddTw",
+    "rating": "4.2",
+    "review_count": 19,
+    "hours": "Open 24 hours",
+    "lat": 17.3470258,
+    "lng": 78.5486923,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:50:09.623Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "Sai Siddhartha Hospital",
@@ -9631,7 +10667,7 @@
     "lng": 78.3464934,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:23.896Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "Neo Care Hospital",
@@ -9695,7 +10731,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Hyderabad - Suryapet Hwy, beside Vmr grand hotel, Dwarakamai Nagar Colony, Vanasthalipuram, Hyderabad, Telangana 500070, India",
+    "phone": "+91 83743 25678",
+    "website": "https://www.google.com/maps/search/?api=1&query=Legend%20Hospitals&query_place_id=ChIJFe-EwfyhyzsR3YnapSC5E1k",
+    "rating": "3.9",
+    "review_count": 51,
+    "hours": "Open 24 hours",
+    "lat": 17.3362839,
+    "lng": 78.5762579,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:26.346Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "SRI DHARANI MULTISPECIALITY HOSPITAL",
@@ -9711,15 +10758,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Borabanda - Allahpur Rd, Site-3, NRR Puram, Borabanda, Hyderabad, Telangana 500114, India",
-    "phone": "+91 93816 70636",
-    "website": "https://www.google.com/maps/search/?api=1&query=MULTISPECIALITY%20HOSPITAL&query_place_id=ChIJU4cDu62RyzsRdRZroGyd4Mg",
-    "lat": 17.4510182,
-    "lng": 78.4069481,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:22.349Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "NANDI HOSPITAL",
@@ -9735,7 +10774,17 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "H no 3-93, near Tulja Bhavani Temple, Tara Nagar, Lingampally, Taranagar, Serilingampalle (M), Telangana 500019, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Nandi%20Hospital&query_place_id=ChIJuUJ0aJWSyzsR7swncEvC0zY",
+    "rating": "4.3",
+    "review_count": 12,
+    "hours": "Open 24 hours",
+    "lat": 17.4909971,
+    "lng": 78.3166711,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:25.433Z",
+    "match_score": 1.0
   },
   {
     "hospital_name": "SAI CHARAN HOSPITALS",
@@ -9751,7 +10800,14 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "3-12/7, Industrial Estate, Godavari Homes, Quthbullapur, Hyderabad, Telangana 500055, India",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sai%20Charan%20Hospital&query_place_id=ChIJ70niimmQyzsRSvALSrN7m6A",
+    "lat": 17.5069593,
+    "lng": 78.4676502,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:24.803Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "GOUTAM NEURO CARE",
@@ -9799,17 +10855,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "2, Saroor Nagar Rd, Rajyalaxmi Nagar, SBH Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=Cure%20Hospital%20(Dr.Ibrahim)&query_place_id=ChIJ4YUpxMyZyzsRDbFeW7dddTw",
-    "rating": "4.2",
-    "review_count": 19,
-    "hours": "Open 24 hours",
-    "lat": 17.3470258,
-    "lng": 78.5486923,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:09.623Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "SATYAM HOSPITAL",
@@ -9852,7 +10898,7 @@
     "lng": 78.5544425,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:50:14.771Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "RAINBOW CHILDRENS MEDICARE PRIVATE LIMITED-HYDERABAD",
@@ -9895,7 +10941,7 @@
     "lng": 78.5610899,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:58.397Z",
-    "match_score": 0.895
+    "match_score": 0.95
   },
   {
     "hospital_name": "MAMATA ACADEMY OF MEDICAL SCIENCES",
@@ -9959,18 +11005,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Jiyaguda,besides royal sea hotel,Police colony,kamela road., Hyderabad, Telangana 500006, India",
-    "phone": "+91 94900 97023",
-    "website": "https://www.google.com/maps/search/?api=1&query=General%20hospital.&query_place_id=ChIJ3d-8caOXyzsRYAbaA07hYgE",
-    "rating": "4",
-    "review_count": 1,
-    "hours": "11\u202fAM to 11:30\u202fPM",
-    "lat": 17.3698435,
-    "lng": 78.4477645,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:22.349Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "YASHODA HEALTHCARE SERVICES PVT LTD",
@@ -10013,7 +11048,7 @@
     "lng": 78.4144672,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-23T15:00:18.350Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "MAVEN MEDICAL CARE LLP",
@@ -10072,7 +11107,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "KPHB 5th Phase, opp. Brand Factory, Kukatpally Housing Board Colony, KPHB 5th Phase, Kukatpally, Hyderabad, Telangana 500085, India",
+    "phone": "+91 77779 32772",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sree%20Manju%20Hospitals%20-%20Multispeciality%20Hospital%20in%20Kukatpally%20%7C%20KPHB%20%7C%20Hyderabad&query_place_id=ChIJpcQ89hmRyzsRcmBmaWI7c1k",
+    "rating": "4.7",
+    "review_count": 3178,
+    "hours": "Open 24 hours",
+    "lat": 17.4830018,
+    "lng": 78.3926482,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:48:52.881Z",
+    "match_score": 0.9
   },
   {
     "hospital_name": "DR SHALINI EYE HOSPITAL",
@@ -10136,18 +11182,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Telangana State, H.No.6-3-2260/754.C-754, Near: Red Tank, Vanasthalipuram, Ranga Reddy District-500 070, Hyderabad, Telangana 500070, India",
-    "phone": "+91 90906 56503",
-    "website": "https://www.google.com/maps/search/?api=1&query=Asian%20hospital&query_place_id=ChIJz0RlFQChyzsRljxIG8TPMuA",
-    "rating": "4.7",
-    "review_count": 13,
-    "hours": "Open 24 hours",
-    "lat": 17.3292061,
-    "lng": 78.5675066,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:49:26.346Z",
-    "match_score": 0.8764705882352941
+    "is_recommended": false
   },
   {
     "hospital_name": "GAYATRI HOSPITAL",
@@ -10195,16 +11230,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Red Hills, Lakdikapul, Hyderabad, Telangana 500004, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=Krishna%20Multi%20Speciality%20Hospital&query_place_id=ChIJWxoFbGiXyzsROUzmjIe3Wtc",
-    "rating": "2.6",
-    "review_count": 23,
-    "lat": 17.4022402,
-    "lng": 78.463065,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:22.349Z",
-    "match_score": 0.9096774193548387
+    "is_recommended": false
   },
   {
     "hospital_name": "IRIS EYE HOSPITAL",
@@ -10300,7 +11326,18 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "address": "Nagarjuna Colony, Phase 4, LB Nagar, Hastinapuram, Vanasthalipuram, Hyderabad, Telangana 500070, India",
+    "phone": "+91 90303 54222",
+    "website": "https://www.google.com/maps/search/?api=1&query=Sri%20Vision%20Eye%20Hospital%20And%20Laser%20Center&query_place_id=ChIJU-yyc8qjyzsRdndj7pEv0S8",
+    "rating": "4.8",
+    "review_count": 19,
+    "hours": "9\u202fAM to 9\u202fPM",
+    "lat": 17.3260268,
+    "lng": 78.5571329,
+    "scraped_source": "google_maps",
+    "scraped_at": "2026-03-28T03:49:59.904Z",
+    "match_score": 0.85
   },
   {
     "hospital_name": "OMEGA HOSPITALS-A UNIT OF HIO",
@@ -10396,17 +11433,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "2, Saroor Nagar Rd, Rajyalaxmi Nagar, SBH Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
-    "website": "https://www.google.com/maps/search/?api=1&query=Cure%20Hospital%20(Dr.Ibrahim)&query_place_id=ChIJ4YUpxMyZyzsRDbFeW7dddTw",
-    "rating": "4.2",
-    "review_count": 19,
-    "hours": "Open 24 hours",
-    "lat": 17.3470258,
-    "lng": 78.5486923,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:50:09.623Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "TRIDENT HOSPITAL",
@@ -10454,17 +11481,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "9F8C+PFW, Tayal Rd, Gandhi Bazar, Ghansi Bazaar, Hyderabad, Telangana 500002, India",
-    "phone": "+91 96424 43264",
-    "website": "https://www.google.com/maps/search/?api=1&query=Rk%20Hospital&query_place_id=ChIJNzPe6IiXyzsRusC3_WrrXIw",
-    "rating": "5",
-    "review_count": 2,
-    "lat": 17.366863,
-    "lng": 78.4711948,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:23.794Z",
-    "match_score": 0.8695652173913043
+    "is_recommended": false
   },
   {
     "hospital_name": "HEALTH VALLEY HOSPITALS AND MEDICALS PVT LTD",
@@ -10507,7 +11524,7 @@
     "lng": 78.5882899,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:49:33.418Z",
-    "match_score": 0.9299999999999999
+    "match_score": 1.0
   },
   {
     "hospital_name": "SREE SAI DEEPA HOSPITAL",
@@ -10843,18 +11860,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "1-2, Nizampet Rd, Survey 37, Nagarjuna Homes, Nizampet, Hyderabad, Telangana 500085, India",
-    "phone": "+91 92402 12343",
-    "website": "https://www.google.com/maps/search/?api=1&query=Sri%20Sri%20Holistic%C2%AE%EF%B8%8F%20Hospitals&query_place_id=ChIJ_RgwCwmayzsR6f1T_pO1YHo",
-    "rating": "4.5",
-    "review_count": 8316,
-    "hours": "Open 24 hours",
-    "lat": 17.5022263,
-    "lng": 78.3889012,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-28T03:48:52.569Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "ARUNA MULTI SPECALITY HOSPITAL AND LAPROSCOPIC CENTRE",
@@ -10950,15 +11956,7 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false,
-    "address": "Borabanda - Allahpur Rd, Site-3, NRR Puram, Borabanda, Hyderabad, Telangana 500114, India",
-    "phone": "+91 93816 70636",
-    "website": "https://www.google.com/maps/search/?api=1&query=MULTISPECIALITY%20HOSPITAL&query_place_id=ChIJU4cDu62RyzsRdRZroGyd4Mg",
-    "lat": 17.4510182,
-    "lng": 78.4069481,
-    "scraped_source": "google_maps",
-    "scraped_at": "2026-03-23T15:00:22.349Z",
-    "match_score": 0.895
+    "is_recommended": false
   },
   {
     "hospital_name": "AROGYA HOSPITALA",
@@ -10984,7 +11982,7 @@
     "lng": 78.5234304,
     "scraped_source": "google_maps",
     "scraped_at": "2026-03-28T03:50:08.480Z",
-    "match_score": 0.95625
+    "match_score": 1.0
   },
   {
     "hospital_name": "SRI MEENAKSHI GLOBAL HOSPITAL NIZAMPEYT",
