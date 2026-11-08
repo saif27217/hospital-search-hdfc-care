@@ -342,6 +342,27 @@ def build_cache():
                 n += 1
         print(f"Marked {n} confirmed overlap pairs (dual)", file=sys.stderr)
 
+    # Address enrichment: fill missing full_address from the Maps-scrape output
+    # (hospitals_enriched.json, `address` key first). Keeps --rebuild from
+    # wiping merged addresses.
+    addr_path = cache_dir / "hospitals_enriched.json"
+    if addr_path.exists():
+        def _norm(s):
+            return re.sub(r"[^a-z0-9]+", " ", str(s).lower()).strip()
+        addr_idx = {}
+        for row in json.loads(addr_path.read_text()):
+            a = row.get("address") or row.get("full_address")
+            if a:
+                addr_idx[_norm(row["hospital_name"])] = a
+        n = 0
+        for rec in deduped:
+            if not rec.get("full_address"):
+                a = addr_idx.get(_norm(rec["hospital_name"]))
+                if a:
+                    rec["full_address"] = a
+                    n += 1
+        print(f"Filled {n} addresses from enrichment file", file=sys.stderr)
+
     # Save cache
     cache_dir.mkdir(parents=True, exist_ok=True)
     with open(CACHE_FILE, "w") as f:

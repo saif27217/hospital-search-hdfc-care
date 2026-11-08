@@ -8,6 +8,8 @@ Built from a curated Google Spreadsheet (5 sheets: base networks, Google ratings
 
 Per-hospital fields: name, insurance, area, specialty, contact(s), Google rating, distance (km), travel time, HDFC proximity score, recommended flag. Dual-network hospitals additionally carry `dual`: the exact `hospital_name` of their counterpart record in the other network.
 
+Street addresses (`full_address`) are populated on 215/618 records (61 from the HDFC proximity sheet + 154 merged from a Google Maps scrape kept in `hospitals_enriched.json`). The address merge is re-applied in `build_cache()`, so it survives `--rebuild`. Enrichment is best-effort: the scrape occasionally mis-resolves uncommon names to a different facility's listing (e.g. Life Spring (Nacharam) was auto-filling Sai Datta's address and had to be corrected) — treat a scraped address as a hint for the admin, not a verified fact.
+
 ## Dual-network overlap
 
 86 hospitals are covered by **both** HDFC Ergo and Care Supreme (172 records). Pairs are evidence-based (shared phone / unit-of-parent chain / identical name), never fuzzy-name similarity; audited 2026-11-08 from the source sheets. The pair list lives in `insurance_overlap.json` (`confirmed` ×86 + `chain` ×31 reviewed-but-unconfirmed drift candidates) and is re-applied on `--rebuild`. In results, ⚑ marks dual records.
