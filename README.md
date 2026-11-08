@@ -6,7 +6,15 @@ Offline hospital network lookup for **HDFC Ergo** and **Care Supreme** insurance
 
 Built from a curated Google Spreadsheet (5 sheets: base networks, Google ratings, proximity scoring, recommended hospitals). `hospitals.json` is the committed cache; the raw XLSX is fetched only on `--rebuild`.
 
-Per-hospital fields: name, insurance, area, specialty, contact(s), Google rating, distance (km), travel time, HDFC proximity score, recommended flag.
+Per-hospital fields: name, insurance, area, specialty, contact(s), Google rating, distance (km), travel time, HDFC proximity score, recommended flag. Dual-network hospitals additionally carry `dual`: the exact `hospital_name` of their counterpart record in the other network.
+
+## Dual-network overlap
+
+86 hospitals are covered by **both** HDFC Ergo and Care Supreme (172 records). Pairs are evidence-based (shared phone / unit-of-parent chain / identical name), never fuzzy-name similarity; audited 2026-11-08 from the source sheets. The pair list lives in `insurance_overlap.json` (`confirmed` ×86 + `chain` ×31 reviewed-but-unconfirmed drift candidates) and is re-applied on `--rebuild`. In results, ⚑ marks dual records.
+
+```bash
+hospital-search --insurance both --area Mehdipatnam   # dual-network hospitals only
+```
 
 ## Requirements
 
@@ -42,7 +50,7 @@ hospital-search --rebuild
 
 | Flag | Values | Default | |
 |---|---|---|---|
-| `--insurance` | `hdfc` \| `care` | all | Filter by provider |
+| `--insurance` | `hdfc` \| `care` \| `both` | all | Filter by provider (`both` = dual-network records) |
 | `--area` | free text | — | Fuzzy area/neighborhood match |
 | `--specialty` | free text | — | Case-insensitive substring match |
 | `--sort` | `distance` \| `rating` \| `score` \| `name` | `distance` | `score` = HDFC proximity composite |

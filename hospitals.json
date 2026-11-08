@@ -14,7 +14,8 @@
     "final_score": 5.84,
     "full_address": "Pillar No19 Near St. Anns Women's College, 12-2-824, PV Narasimha Rao Expy, Mehdipatnam, Hyderabad, Telangana, 500028",
     "is_recommended": false,
-    "num_reviews": "1k"
+    "num_reviews": "1k",
+    "dual": "Aravind Eye Hospital Pvt. Ltd."
   },
   {
     "hospital_name": "Dr. Akbar Eye Hospital",
@@ -31,7 +32,8 @@
     "final_score": 5.76,
     "full_address": "Door No 12-2-831/87, SAI Suchi Towers, Opposite Syndicate Bank, Mehdipatnam-500028",
     "is_recommended": false,
-    "num_reviews": "959.0"
+    "num_reviews": "959.0",
+    "dual": "Dr Akbar Eye Hospital"
   },
   {
     "hospital_name": "Medivision Eye & Health Care Centre",
@@ -64,7 +66,8 @@
     "final_score": 5.8,
     "full_address": "Opp Pillar No. 81, PVNR Expressway, Inner Ring Rd, Maruthi Nagar Mehdipatnam, Hyderabad, Telangana - 500008",
     "is_recommended": false,
-    "num_reviews": "7.6k"
+    "num_reviews": "7.6k",
+    "dual": "Mythri Hospital Mehdipatnam"
   },
   {
     "hospital_name": "Olive Hospitals Pvt Ltd.",
@@ -132,7 +135,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Vasan Eye Care Hospital-Jubilee Hills"
   },
   {
     "hospital_name": "Care Hospital",
@@ -266,7 +270,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Zoi Hospitals"
   },
   {
     "hospital_name": "Global Hospitals",
@@ -333,7 +338,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Mahavir Hospital & Research Center"
   },
   {
     "hospital_name": "Seha Hospital",
@@ -452,7 +458,8 @@
     "final_score": 6.04,
     "full_address": "Ashoka Capitol, Road No. 2, Park View Enclave, Banjara Hills, Hyderabad, Telangana - 500034",
     "is_recommended": false,
-    "num_reviews": "258.0"
+    "num_reviews": "258.0",
+    "dual": "Centre For Sight-Banjara Hills"
   },
   {
     "hospital_name": "Challa Eye Care Centre",
@@ -468,7 +475,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Challa Hospital"
   },
   {
     "hospital_name": "Femina Women'S Hospital",
@@ -502,7 +510,8 @@
     "final_score": 6.16,
     "full_address": "Banjara Hills, Hyderabad (Near Ashiana Banquet & Conference, Eden Gardens)",
     "is_recommended": false,
-    "num_reviews": "915.0"
+    "num_reviews": "915.0",
+    "dual": "HIGH SIGHT SUPER SPECIALITY EYE HOSPITAL"
   },
   {
     "hospital_name": "L.V.Prasad Eye Institute",
@@ -587,7 +596,8 @@
     "final_score": 6.0,
     "full_address": "Banjara Hills, Hyderabad (Near City Central Mall, Near L V Prasad Eye Hospital)",
     "is_recommended": false,
-    "num_reviews": "23.4k"
+    "num_reviews": "23.4k",
+    "dual": "Rainbow Childrens Hospital & Prenatal Centre-Banjara Hills"
   },
   {
     "hospital_name": "Star Hospitals (Unit Of Unimed Health Care Pvt Ltd)",
@@ -604,7 +614,8 @@
     "final_score": 6.08,
     "full_address": "Banjara Hills, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "4153.0"
+    "num_reviews": "4153.0",
+    "dual": "Star Hospitals - A Unit of Unimed Healthcare Pvt. Ltd"
   },
   {
     "hospital_name": "Stork Home Fernandez Hospital",
@@ -621,7 +632,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Fernandez Hospital Pvt. Ltd."
   },
   {
     "hospital_name": "Virinchi Hospitals",
@@ -654,7 +666,8 @@
     "final_score": 5.72,
     "full_address": "Kukatpally, Hyderabad (Sheshadri Nagar)",
     "is_recommended": false,
-    "num_reviews": "14.0"
+    "num_reviews": "14.0",
+    "dual": "Apollo Specialty Hospitals Pvt Ltd-Jubilee Hills"
   },
   {
     "hospital_name": "Apollo Cradle",
@@ -739,7 +752,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Neo Candy Childrens Hospital Pvt Ltd"
   },
   {
     "hospital_name": "Neocandy Childrens Hospital Pvt Ltd",
@@ -824,7 +838,8 @@
     "final_score": 5.88,
     "full_address": "Door No 5-9-29/40, Basheer Bagh Palace, Liberty-500029",
     "is_recommended": false,
-    "num_reviews": "2.4k"
+    "num_reviews": "2.4k",
+    "dual": "Hyderabad Nursing Home Pvt Ltd"
   },
   {
     "hospital_name": "Kirloskar Hospital",
@@ -908,7 +923,8 @@
     "final_score": 6.04,
     "full_address": "No.6-3-562/A, Behind More Megastore, Erram Manzil Colony, Somajiguda-500082",
     "is_recommended": false,
-    "num_reviews": "8.8k"
+    "num_reviews": "8.8k",
+    "dual": "Asian Institute of Nephrology and Urology Pvt. Ltd."
   },
   {
     "hospital_name": "Asvins Speciality Hospital (Amaravati Medicare Pvt)",
@@ -942,7 +958,8 @@
     "final_score": 0.2,
     "full_address": "Somajiguda, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "dual": "Matrika Dr. Kalpanas Hospital"
   },
   {
     "hospital_name": "Maxivision Laser Centre Pvt Ltd",
@@ -976,7 +993,8 @@
     "final_score": 0.2,
     "full_address": "Somajiguda, Hyderabad",
     "is_recommended": true,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "dual": "Nova ENT Hospital"
   },
   {
     "hospital_name": "Sai Institute Of Sports Injury And Orthroscopy Hospital",
@@ -1027,7 +1045,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": true,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "The Deccan Hospital"
   },
   {
     "hospital_name": "Yashoda Superspeciality Hospital",
@@ -1044,7 +1063,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Yashoda Super Speciality Hospital"
   },
   {
     "hospital_name": "Abhaya Bbc Children'S Hospital",
@@ -1061,7 +1081,8 @@
     "final_score": 5.8,
     "full_address": "Hindi Maha Vidyalaya Complex, Vidya Nagar, O.U. Road, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "278.0"
+    "num_reviews": "278.0",
+    "dual": "Abhaya BBC Childrens Hospital"
   },
   {
     "hospital_name": "Adavally Damodar Reddy Memorial Hospital",
@@ -1129,7 +1150,8 @@
     "final_score": 4.2,
     "full_address": "112, 15/a/24, 1, e anandbagh main rd, malkajgiri, hyderabad, telangana 500047",
     "is_recommended": false,
-    "num_reviews": "186.0"
+    "num_reviews": "186.0",
+    "dual": "ADR Hospital"
   },
   {
     "hospital_name": "Akshaya Care Multispeciality Hospital",
@@ -1196,7 +1218,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Ankura Hospital For Women And Children-A.S. Rao Nagar"
   },
   {
     "hospital_name": "Ankura Hospital For Women And Children-A.S. Rao Nagar",
@@ -1213,7 +1236,8 @@
     "final_score": 0.2,
     "full_address": "A.S. Rao Nagar, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "dual": "Ankura Childrens Hospital"
   },
   {
     "hospital_name": "Ankura Hospital For Women And Children-Madinaguda",
@@ -1230,7 +1254,8 @@
     "final_score": 5.88,
     "full_address": "Beside Bharat Petrol Bunk, Madinaguda, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "2.3k"
+    "num_reviews": "2.3k",
+    "dual": "Ankura Hospital for Women & Child"
   },
   {
     "hospital_name": "Anupama Hospital",
@@ -1281,7 +1306,8 @@
     "final_score": 6.0,
     "full_address": "Kanchan Bagh, Hyderabad (Near Midhani Depot, Beside Owaisi Hospital)",
     "is_recommended": false,
-    "num_reviews": "4.6k"
+    "num_reviews": "4.6k",
+    "dual": "Apollo DRDO Hospital-Kanchanbagh"
   },
   {
     "hospital_name": "American Oncology Institute",
@@ -1314,7 +1340,8 @@
     "final_score": 0.2,
     "full_address": "Hyderguda, Hyderabad (No reliable address in snippets)",
     "is_recommended": false,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "dual": "Apollo Emergency Hospital-Hyderguda"
   },
   {
     "hospital_name": "Apollo Hospitals-Kukatpally",
@@ -1584,7 +1611,8 @@
     "final_score": 5.76,
     "full_address": "12,11-1256, Boudha Nagar, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "172.0"
+    "num_reviews": "172.0",
+    "dual": "Dr.Rajashekar Reddy Laparoscopy Hospital"
   },
   {
     "hospital_name": "C.C.Shroff Memorial Hospital",
@@ -1601,7 +1629,8 @@
     "final_score": 1.88,
     "full_address": "Barkatpura, Hyderabad",
     "is_recommended": false,
-    "num_reviews": "N/A"
+    "num_reviews": "N/A",
+    "dual": "CC SHROFF MEMORIAL HOSPITAL"
   },
   {
     "hospital_name": "Chandana Hospital",
@@ -1652,7 +1681,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Challa Eye Care Centre"
   },
   {
     "hospital_name": "Clear Vision Eye Hospital",
@@ -1686,7 +1716,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Continental Hospitals Ltd"
   },
   {
     "hospital_name": "Cygnus Institute Of Gasteroenterology",
@@ -1703,7 +1734,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Cygnus Institute of Gastro Enterology"
   },
   {
     "hospital_name": "Dharani Hospital",
@@ -1720,7 +1752,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "SRI DHARANI MULTISPECIALITY HOSPITAL"
   },
   {
     "hospital_name": "Disha Childrens Hospital",
@@ -1754,7 +1787,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Dr Agarwals Eye Hospital Ltd.-Dilsukh Nagar"
   },
   {
     "hospital_name": "Dr.Agarwal'S Eye Hospital-Santosh Nagar",
@@ -1771,7 +1805,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Dr Agarwals Eye Hospital Ltd.-Santhosh Nagar"
   },
   {
     "hospital_name": "Dr.Naveen Reddy's General Hospital",
@@ -1805,7 +1840,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Dr P Siva Reddy Eye Hospital"
   },
   {
     "hospital_name": "Dr.Raos Ent Super Speciality International Hospital Pvt Ltd - Hyderabad",
@@ -1890,7 +1926,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Durgabai Deshmukh Hospital & Research Centre"
   },
   {
     "hospital_name": "Eashwar Laxmi Hospital, (Tapadia Medical Centre)",
@@ -2008,7 +2045,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Geeta Multispeciality Hospital"
   },
   {
     "hospital_name": "Global Eye & Laser Hospital Pvt Ltd.",
@@ -2025,7 +2063,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Global Eye & Laser Hospital Pvt Ltd"
   },
   {
     "hospital_name": "G.M Hospitals",
@@ -2059,7 +2098,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "GK MULTI SPECIALITY HOSPITALS"
   },
   {
     "hospital_name": "G.S.N.Hospital",
@@ -2127,7 +2167,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Himagiri Hospitals Pvt. Ltd."
   },
   {
     "hospital_name": "Hyderabad Eye Centre",
@@ -2143,7 +2184,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Hyderabad Kidney & Laproscopy Centre"
   },
   {
     "hospital_name": "Hyderabad Kidney & Laproscopy Centre",
@@ -2160,7 +2202,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Hyderabad Eye Centre"
   },
   {
     "hospital_name": "Icon Hospitals-Kukatpally",
@@ -2279,7 +2322,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Jananii Hospital Pvt Ltd"
   },
   {
     "hospital_name": "Janapareddy Hospitals Pvt Ltd",
@@ -2381,7 +2425,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Kakatiya Hospitals"
   },
   {
     "hospital_name": "Kamineni Hospitals-Kingkoti",
@@ -2432,7 +2477,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "KAMALA MATERNITY AND GENERAL HOSPITAL"
   },
   {
     "hospital_name": "Kasturi Multi Speciality Hospital",
@@ -2636,7 +2682,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Lakshmi Hospital"
   },
   {
     "hospital_name": "Lalitha Gayathri Hospital",
@@ -2955,7 +3002,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Matrix Hospital"
   },
   {
     "hospital_name": "Maxcure Hospital (Old Name :- Sunshine Super Speciality Institute – Madhapur)",
@@ -3125,7 +3173,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "M.S. Reddy Lions Eye Hospital"
   },
   {
     "hospital_name": "Mythri Multispeciality Hospital-Chandanagar",
@@ -3159,7 +3208,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "NAKSHATRA HOSPITALS"
   },
   {
     "hospital_name": "Naveena Hospital",
@@ -3176,7 +3226,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "NAVEENA MULTISPECIALITY HOSPITAL"
   },
   {
     "hospital_name": "Navodaya Hospital For Women And Children",
@@ -3227,7 +3278,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Neo BBC New Born & Childrens Hospital"
   },
   {
     "hospital_name": "Neo Vision Eye Care & Laser Centre Pvt Ltd",
@@ -3295,7 +3347,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Malla Reddy Narayana Multispeciality Hospital"
   },
   {
     "hospital_name": "Nightingale Hospital",
@@ -3413,7 +3466,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Omni Hospitals"
   },
   {
     "hospital_name": "Ozone Hospitals",
@@ -3495,7 +3549,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "PARAMITHA HOSPITALS WOMEN AND CHILDREN PVT LTD"
   },
   {
     "hospital_name": "People'S Hospital",
@@ -3512,7 +3567,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Peoples Hospital"
   },
   {
     "hospital_name": "People'S Hospital Patancheru",
@@ -3580,7 +3636,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Pranaam Hospitals Pvt Ltd"
   },
   {
     "hospital_name": "Prasad Hospital",
@@ -3647,7 +3704,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Preeti Urology & Kidney Hospital Pvt. Ltd."
   },
   {
     "hospital_name": "Pride Vikram Hospital (Vikram Hospitals)",
@@ -3664,7 +3722,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Vikram Hospitals"
   },
   {
     "hospital_name": "Prime Hospitals-Ameerpet",
@@ -3817,7 +3876,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Ramesh Lasik and Laser Center"
   },
   {
     "hospital_name": "Ravi Helios Hospital",
@@ -3834,7 +3894,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Ravi Hospital"
   },
   {
     "hospital_name": "Refracto Eye Hospital",
@@ -3851,7 +3912,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Refracto Eye Hospitals"
   },
   {
     "hospital_name": "Remedy Hospital-Kukatpally",
@@ -4004,7 +4066,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Sai Sanjeevini Hospital"
   },
   {
     "hospital_name": "Sai Siddhartha Hospital - Jeedimetla",
@@ -4208,7 +4271,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "SEASONS HOSPITALS"
   },
   {
     "hospital_name": "Shadan Institute Of Medical Sciences (Sims)",
@@ -4242,7 +4306,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "DR SHALINI EYE HOSPITAL"
   },
   {
     "hospital_name": "Shalivahana Multispeciality Hospital",
@@ -4344,7 +4409,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Sreshta Orange Hospitals"
   },
   {
     "hospital_name": "Shreshta's Sushruth Hospital",
@@ -4361,7 +4427,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Shreshtas Sushruth Hospital"
   },
   {
     "hospital_name": "Shree Hrishikeshaya Hospitals Pvt Ltd.",
@@ -4582,7 +4649,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Soorya Hospitals"
   },
   {
     "hospital_name": "Sowmya Children'S Hospital",
@@ -4599,7 +4667,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Sowmya Childrens Hospital"
   },
   {
     "hospital_name": "Sowmya Multispeciality Hospital-Ramnagar",
@@ -4616,7 +4685,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Sowmya Hospital"
   },
   {
     "hospital_name": "Spark Eye Care Hospital Pvt Ltd - New Malakpet",
@@ -4633,7 +4703,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Spark Eye Care Hospital Pvt Ltd"
   },
   {
     "hospital_name": "Spark Hospitals",
@@ -4650,7 +4721,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Spark Health Clinical Services Pvt Ltd"
   },
   {
     "hospital_name": "Sree Lakshmi Gayatri Hospital Pvt Ltd",
@@ -4684,7 +4756,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Sree Netralaya Eye Hospital & Laser Centre Pvt. Ltd."
   },
   {
     "hospital_name": "Sri Aurobindo Nethralaya",
@@ -4735,7 +4808,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "SRIDHAR MULTI SPECIALITY HOSPITAL"
   },
   {
     "hospital_name": "Sri Gayatri Hospital",
@@ -4752,7 +4826,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "GAYATRI HOSPITAL"
   },
   {
     "hospital_name": "Sri Mahalaxmi Eye Hospital",
@@ -4769,7 +4844,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Sri Mahalaxmi Maxivision Eye Hospital Pvt Ltd"
   },
   {
     "hospital_name": "Sri Ramakrishna Hospital",
@@ -4854,7 +4930,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "SRI SRI HOLISTIC HOSPITALS A UNIT OF SREE RAMACHANDRA HEALTH SERVICES PVT LTD"
   },
   {
     "hospital_name": "Sri Srinivasa Hospital (Unit Of Marthala Hospitals Pvt Ltd)",
@@ -4871,7 +4948,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Sri Srinivasa Hospital"
   },
   {
     "hospital_name": "Sriven Hospital",
@@ -4921,7 +4999,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "St Theresas Hospital"
   },
   {
     "hospital_name": "Suncity Nursing Home",
@@ -5004,7 +5083,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Supraja Hospitals"
   },
   {
     "hospital_name": "Suraksha Diabetic Centre (P) Ltd.",
@@ -5055,7 +5135,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Susheela Hospital"
   },
   {
     "hospital_name": "Susheela Hospital",
@@ -5071,7 +5152,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Susheela Hospital - Ramanthapur"
   },
   {
     "hospital_name": "S.V.Hospital",
@@ -5105,7 +5187,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "S V Multispeciality Hospital"
   },
   {
     "hospital_name": "S.V.R.Superspeciality Hospital",
@@ -5140,7 +5223,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Swapna Hospital"
   },
   {
     "hospital_name": "Swapna Hospital",
@@ -5157,7 +5241,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Swapna Health Care"
   },
   {
     "hospital_name": "Swaroopa Multispecilaity Hospital",
@@ -5310,7 +5395,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Life Care Hospitals"
   },
   {
     "hospital_name": "Tilak Nagar Hospital",
@@ -5344,7 +5430,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Eye Care Hyderabad"
   },
   {
     "hospital_name": "Trident Institute Of Medical Sciences",
@@ -5511,7 +5598,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Vasan Eye Care Hospital-A.S. Rao Nagar"
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-Begumpet",
@@ -5560,7 +5648,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Vasan Eye Care Hospital -Dilsukh Nagar"
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-Himayatnagar",
@@ -5577,7 +5666,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "Vasan Eye Care Hospital-Himayath Nagar"
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-Kukatpally",
@@ -5762,7 +5852,8 @@
     "final_score": null,
     "full_address": null,
     "is_recommended": false,
-    "num_reviews": null
+    "num_reviews": null,
+    "dual": "WIN VISION EYE HOSPITAL PVT LTD"
   },
   {
     "hospital_name": "Wockhardt Heart Centre",
@@ -5861,7 +5952,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Mythri Hospital (A Division Of Surya Prakash Hospitals & Diagnostics Pvt Ltd)"
   },
   {
     "hospital_name": "Aditya Hospital",
@@ -5911,7 +6003,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Mahavir Hospital & Research Centre"
   },
   {
     "hospital_name": "Global Hospitals-A Unit Of Ravindranath GE Medical Associated Pvt. Ltd.-Red Hill",
@@ -5991,7 +6084,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Rainbow Childrens Hospital"
   },
   {
     "hospital_name": "Care Hospital-Banjara-Banjara Hills",
@@ -6023,7 +6117,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Centre For Sight"
   },
   {
     "hospital_name": "Star Hospitals - A Unit of Unimed Healthcare Pvt. Ltd",
@@ -6039,7 +6134,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Star Hospitals (Unit Of Unimed Health Care Pvt Ltd)"
   },
   {
     "hospital_name": "Iswarya Fertility Services Pvt Ltd-Khairatabad, Banjara Hills",
@@ -6071,7 +6167,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "High Sight Eye Hospital"
   },
   {
     "hospital_name": "Century Super Speciality Hospital",
@@ -6183,7 +6280,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Vasan Eye Care Hospital"
   },
   {
     "hospital_name": "Apollo Hospitals-Jubilee Hills",
@@ -6215,7 +6313,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Apollo Hospitals"
   },
   {
     "hospital_name": "Avis Hospitals",
@@ -6264,7 +6363,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Matrika Hospital"
   },
   {
     "hospital_name": "Dr Agarwals Eye Hospital Ltd.-Punjagutta",
@@ -6312,7 +6412,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Asian Institute Of Nephrology And Urology"
   },
   {
     "hospital_name": "Nova ENT Hospital",
@@ -6328,7 +6429,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Nova Ent Hospital"
   },
   {
     "hospital_name": "The Deccan Hospital",
@@ -6344,7 +6446,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "The Deccan Hospital (A Unit Of Park Health Systems Pvt Ltd)"
   },
   {
     "hospital_name": "Vascular Care Center",
@@ -6376,7 +6479,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Zoi Hospital"
   },
   {
     "hospital_name": "Yashoda Super Speciality Hospital Raj Bhavan Road",
@@ -6408,7 +6512,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Yashoda Superspeciality Hospital"
   },
   {
     "hospital_name": "Advalli Damodar Reddy Memorial Hospital",
@@ -6539,7 +6644,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Pride Vikram Hospital (Vikram Hospitals)"
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-Ameerpet",
@@ -6589,7 +6695,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Matrix Hospital (A Unit Of Sadguru Hospitals Pvt Ltd)"
   },
   {
     "hospital_name": "Paramitha Children Hospital",
@@ -6623,7 +6730,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Shreshta Orange Hospital"
   },
   {
     "hospital_name": "Guru Nanak Care Hospital - Musheerabad",
@@ -6655,7 +6763,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Vasan Eye Care Hospital-A. S.Rao Nagar"
   },
   {
     "hospital_name": "Vasan Eye Care Hospital-Himayath Nagar",
@@ -6671,7 +6780,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Vasan Eye Care Hospital-Himayatnagar"
   },
   {
     "hospital_name": "Dr Agarwals Eye Hospital Ltd.-Dilsukh Nagar",
@@ -6687,7 +6797,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Dr.Agarwal'S Eye Hospital-Dilsukhnagar"
   },
   {
     "hospital_name": "Apollo Emergency Hospital-Hyderguda",
@@ -6703,7 +6814,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Apollo Hospitals-Hyderguda"
   },
   {
     "hospital_name": "Apollo DRDO Hospital-Kanchanbagh",
@@ -6719,7 +6831,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Apollo Drdo Hospitals-Kanchanbagh"
   },
   {
     "hospital_name": "Konark Hopitals",
@@ -6815,7 +6928,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Dr. Akbar Eye Hospital"
   },
   {
     "hospital_name": "Global Eye & Laser Hospital Pvt Ltd",
@@ -6831,7 +6945,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Global Eye & Laser Hospital Pvt Ltd."
   },
   {
     "hospital_name": "Jananii Hospital Pvt Ltd",
@@ -6847,7 +6962,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Jananii Hospital (Jananii Hospital Pvt Ltd)"
   },
   {
     "hospital_name": "Malla Reddy Narayana Multispeciality Hospital",
@@ -6863,7 +6979,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Nh Mallareddy Narayana Multispeciality Hospital"
   },
   {
     "hospital_name": "Bristlecone Hospitals Pvt Ltd",
@@ -6911,7 +7028,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Pranaam Hospital Pvt Ltd."
   },
   {
     "hospital_name": "Hyderabad Kidney & Laparoscopic Centre (A Unit of J V P Super Speciality Hospitals Pvt Ltd)",
@@ -6943,7 +7061,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Omni Hospitals (A Unit Of Incor Hospitals Pvt Ltd)"
   },
   {
     "hospital_name": "Magnasv Hospitals",
@@ -6993,7 +7112,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Aravind Eye Hospital"
   },
   {
     "hospital_name": "Sri Shankara Nethralaya",
@@ -7042,7 +7162,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Vasan Eye Care Hospital-Dilsukhnagar"
   },
   {
     "hospital_name": "Sowmya Hospital",
@@ -7058,7 +7179,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Sowmya Multispeciality Hospital-Ramnagar"
   },
   {
     "hospital_name": "Oarchid Hospital",
@@ -7090,7 +7212,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Sai Sanjeevini Hospitals-Kothapet"
   },
   {
     "hospital_name": "Icon Hospitals",
@@ -7186,7 +7309,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "People'S Hospital"
   },
   {
     "hospital_name": "Sree Netralaya Eye Hospital & Laser Centre Pvt. Ltd.",
@@ -7202,7 +7326,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Sree Netralaya Eye Hospital & Laser Centre"
   },
   {
     "hospital_name": "Preeti Urology & Kidney Hospital Pvt. Ltd.",
@@ -7218,7 +7343,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Preeti Urology And Kidney Hospital"
   },
   {
     "hospital_name": "Sri Mahalaxmi Maxivision Eye Hospital Pvt Ltd",
@@ -7234,7 +7360,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Sri Mahalaxmi Eye Hospital"
   },
   {
     "hospital_name": "Vcare Hospitals Multispeciality",
@@ -7266,7 +7393,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Spark Eye Care Hospital Pvt Ltd - New Malakpet"
   },
   {
     "hospital_name": "Jeevan Sai Hospitals",
@@ -7298,7 +7426,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Spark Hospitals"
   },
   {
     "hospital_name": "Supraja Hospitals",
@@ -7314,7 +7443,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Supraja Hospital (A Unit Of Sai Sravan Helath Care Pvt. Ltd)"
   },
   {
     "hospital_name": "M.S. Reddy Lions Eye Hospital",
@@ -7330,7 +7460,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "M.S.Reddy Lions Eye Hospital"
   },
   {
     "hospital_name": "Srinivasa Hospital",
@@ -7394,7 +7525,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Hyderabad Nursing Home"
   },
   {
     "hospital_name": "Geeta Multispeciality Hospital",
@@ -7410,7 +7542,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Geetha Multispeciality Hospitals"
   },
   {
     "hospital_name": "Manas Eye Hospital",
@@ -7459,7 +7592,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Cygnus Institute Of Gasteroenterology"
   },
   {
     "hospital_name": "Swaroopa Multispeciality Hospital",
@@ -7539,7 +7673,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Shreshta's Sushruth Hospital"
   },
   {
     "hospital_name": "Jeevan Hospital",
@@ -7587,7 +7722,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Abhaya Bbc Children'S Hospital"
   },
   {
     "hospital_name": "May Flower Hospital For Women And Children",
@@ -7667,7 +7803,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Lakshmi Children Hospital"
   },
   {
     "hospital_name": "Kakatiya Hospital",
@@ -7747,7 +7884,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Continental Hospitals Ltd."
   },
   {
     "hospital_name": "Sowmya Childrens Hospital",
@@ -7763,7 +7901,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Sowmya Children'S Hospital"
   },
   {
     "hospital_name": "ADR Hospital",
@@ -7779,7 +7918,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Adr Hospital"
   },
   {
     "hospital_name": "Neo BBC New Born & Childrens Hospital",
@@ -7795,7 +7935,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Neo Bbc New Born & Children'S Hospital"
   },
   {
     "hospital_name": "Durgabai Deshmukh Hospital & Research Centre",
@@ -7811,7 +7952,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Durgabai Deshmukh Hospital"
   },
   {
     "hospital_name": "Safe Childrens Hospital",
@@ -7859,7 +8001,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Dr.Agarwal'S Eye Hospital-Santosh Nagar"
   },
   {
     "hospital_name": "Himagiri Hospitals Pvt. Ltd.",
@@ -7875,7 +8018,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Himagiri Hospitals"
   },
   {
     "hospital_name": "Citizens Hospital",
@@ -7939,7 +8083,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Ankura Hospital For Women And Children-Madinaguda"
   },
   {
     "hospital_name": "Eye Care Hyderabad",
@@ -7955,7 +8100,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Tirumala Multi Speciality Hospital-Hyderabad"
   },
   {
     "hospital_name": "KIMS BIBI Hospital",
@@ -7987,7 +8133,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "B.V.K. Reddy Hospital"
   },
   {
     "hospital_name": "WIN VISION EYE HOSPITAL PVT LTD",
@@ -8003,7 +8150,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": true
+    "is_recommended": true,
+    "dual": "Win Vision Eye Hospitals Pvt Ltd"
   },
   {
     "hospital_name": "Kakatiya Hospitals",
@@ -8019,7 +8167,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Kakatiya Hospitals - Hyderabad"
   },
   {
     "hospital_name": "Safe Kids Hospitals Pvt Ltd",
@@ -8067,7 +8216,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Stork Home Fernandez Hospital"
   },
   {
     "hospital_name": "Amrita Ent Head and Neck Hospital",
@@ -8196,7 +8346,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Sri Srinivasa Hospital (Unit Of Marthala Hospitals Pvt Ltd)"
   },
   {
     "hospital_name": "Prathima Hospitals A Unit Of Sri Sai Balaji Health Care India Pvt Ltd",
@@ -8276,7 +8427,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Ravi Helios Hospital"
   },
   {
     "hospital_name": "Solis Eye Care Hospitals Pvt Ltd",
@@ -8324,7 +8476,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Soorya Orthopaedic Hospital"
   },
   {
     "hospital_name": "New Shadow Hospital",
@@ -8388,7 +8541,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "St.Theresa'S Hospital"
   },
   {
     "hospital_name": "AIG Hospital A Unit of Asian Institute o f Gastroenterology Pvt Ltd",
@@ -8420,7 +8574,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "S.V.Multispeciality Hospital"
   },
   {
     "hospital_name": "Mana Hospitals",
@@ -8452,7 +8607,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Ramesh Lasik & Laser Center"
   },
   {
     "hospital_name": "Refracto Eye Hospitals",
@@ -8468,7 +8624,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Refracto Eye Hospital"
   },
   {
     "hospital_name": "Udbhava Hospitals",
@@ -8500,7 +8657,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Dr.P.Siva Reddy Eye Hospital"
   },
   {
     "hospital_name": "Dr Agarwals Eye Hospital Ltd.-Madeenaguda",
@@ -8724,7 +8882,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Candy Childrens Hospital"
   },
   {
     "hospital_name": "Life Care Hospitals",
@@ -8740,7 +8899,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Thumbay Hospital New Life-Chaderghat"
   },
   {
     "hospital_name": "Hyderabad Urology And Andrology Hospital",
@@ -8948,7 +9108,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "C.C.Shroff Memorial Hospital"
   },
   {
     "hospital_name": "LEGEND HOSPITALS",
@@ -8980,7 +9141,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Dharani Hospital"
   },
   {
     "hospital_name": "NANDI HOSPITAL",
@@ -9156,7 +9318,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Nakshatra Hospitals"
   },
   {
     "hospital_name": "CHETHANA HOSPITALS",
@@ -9188,7 +9351,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Kamala Hospital"
   },
   {
     "hospital_name": "YASHODA HEALTHCARE SERVICES PVT LTD",
@@ -9252,7 +9416,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Sridhar Multispeciality Hospital"
   },
   {
     "hospital_name": "SREE MANJU HOSPITALS",
@@ -9284,7 +9449,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Shalini Hospital"
   },
   {
     "hospital_name": "MEDICOVER WOMAN & CHILD HOSPITALS",
@@ -9348,7 +9514,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Sri Gayatri Hospital"
   },
   {
     "hospital_name": "SHREE MEENAKSHI EYE HOSPITAL",
@@ -9380,7 +9547,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "GNR Multispeciality Hospital"
   },
   {
     "hospital_name": "IRIS EYE HOSPITAL",
@@ -9444,7 +9612,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Paramitha Childrens Hospital Pvt Ltd"
   },
   {
     "hospital_name": "PARAMITHA WOMEN AND KIDS CARE CHINTAL PVT LTD",
@@ -9796,7 +9965,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Seasons Hospitals"
   },
   {
     "hospital_name": "CENTRE FOR SIGHT",
@@ -9988,7 +10158,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Sri Sri Holistic Hospitals"
   },
   {
     "hospital_name": "ARUNA MULTI SPECALITY HOSPITAL AND LAPROSCOPIC CENTRE",
@@ -10084,7 +10255,8 @@
     "proximity_category": null,
     "final_score": null,
     "full_address": null,
-    "is_recommended": false
+    "is_recommended": false,
+    "dual": "Naveena Hospital"
   },
   {
     "hospital_name": "AROGYA HOSPITALA",

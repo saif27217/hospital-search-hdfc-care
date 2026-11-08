@@ -1,0 +1,118 @@
+[
+  {
+    "original": {
+      "hospital_name": "Aravind Eye Hospital",
+      "insurance": "HDFC Ergo",
+      "area": "Mehdipatnam",
+      "specialty": "Eye Hospital",
+      "contact_number": [
+        "040 2353 3810"
+      ],
+      "google_rating": 4.1,
+      "distance_km": 3.0,
+      "travel_time_min": null,
+      "proximity_category": "In Mehdipatnam",
+      "final_score": 5.84,
+      "full_address": "Pillar No19 Near St. Anns Women's College, 12-2-824, PV Narasimha Rao Expy, Mehdipatnam, Hyderabad, Telangana, 500028",
+      "is_recommended": false,
+      "num_reviews": "1k"
+    },
+    "extracted": {
+      "maps_name": "Aravind Eye Hospital & Institute",
+      "rating": 4.3,
+      "review_count": 6,
+      "type": null,
+      "address": "Fl no-303, 12-2, Nearby Address: iKAN security services and systems, 12-2, behind Arvind Eye Hospital, Santosh Nagar, Gudimalkapur, Hyderabad, Telangana 500006",
+      "hours": null,
+      "website_url": "https://aravindeyecarehospitals.com",
+      "phone": "040 2351 3743"
+    }
+  },
+  {
+    "original": {
+      "hospital_name": "Dr. Akbar Eye Hospital",
+      "insurance": "HDFC Ergo",
+      "area": "Mehdipatnam",
+      "specialty": "Eye Hospital",
+      "contact_number": [
+        "040 2353 4300"
+      ],
+      "google_rating": 4.4,
+      "distance_km": 3.0,
+      "travel_time_min": null,
+      "proximity_category": "In Mehdipatnam",
+      "final_score": 5.76,
+      "full_address": "Door No 12-2-831/87, SAI Suchi Towers, Opposite Syndicate Bank, Mehdipatnam-500028",
+      "is_recommended": false,
+      "num_reviews": "959.0"
+    },
+    "extracted": {
+      "maps_name": "Dr. Akbar Super Speciality Eye Hospital Mehdipatnam Hyderabad",
+      "rating": 4.6,
+      "review_count": null,
+      "type": null,
+      "address": "12-2-831/87, Asif Nagar Rd, MIGH Colony, Murad Nagar, Hyderabad, Telangana 500006",
+      "hours": null,
+      "website_url": "https://drakbareyehospitals.com",
+      "phone": "040 6636 2660"
+    }
+  },
+  {
+    "original": {
+      "hospital_name": "Mythri Hospital (A Division Of Surya Prakash Hospitals & Diagnostics Pvt Ltd)",
+      "insurance": "HDFC Ergo",
+      "area": "Mehdipatnam",
+      "specialty": "Multi-speciality",
+      "contact_number": [
+        "040 2353 3333"
+      ],
+      "google_rating": 4.5,
+      "distance_km": 3.0,
+      "travel_time_min": null,
+      "proximity_category": "In Mehdipatnam",
+      "final_score": 5.8,
+      "full_address": "Opp Pillar No. 81, PVNR Expressway, Inner Ring Rd, Maruthi Nagar Mehdipatnam, Hyderabad, Telangana - 500008",
+      "is_recommended": false,
+      "num_reviews": "7.6k"
+    },
+    "extracted": {
+      "maps_name": "Best Vascular Surgery Hospital in Hyderabad | Varicose Veins & Endovascular Treatment Experts | Yashoda Hospitals",
+      "rating": 4.8,
+      "review_count": 71,
+      "type": null,
+      "address": "Hospital \u00b7 \ue934 \u00b7 Opp. Pillar No. 83, PVNR Expressway, Gudi Malkapur Rd",
+      "hours": "Open \u00b7 Closes 9:30\u202fpm",
+      "website_url": null,
+      "phone": "040 6723 2307"
+    }
+  },
+  {
+    "original": {
+      "hospital_name": "Olive Hospitals Pvt Ltd.",
+      "insurance": "HDFC Ergo",
+      "area": "Mehdipatnam",
+      "specialty": "General Hospital",
+      "contact_number": [
+        "040 4455 9999"
+      ],
+      "google_rating": null,
+      "distance_km": null,
+      "travel_time_min": null,
+      "proximity_category": null,
+      "final_score": null,
+      "full_address": null,
+      "is_recommended": false,
+      "num_reviews": null
+    },
+    "extracted": {
+      "maps_name": "Olive Hospitals",
+      "rating": 5.0,
+      "review_count": 18,
+      "type": "Hospital",
+      "address": "Building No. 12-2-718/3,4,5, Nanalnagar \u2018X\u2019 Road, Mehdipatnam, Hyderabad, Telangana 500006",
+      "hours": "Open 24 hours",
+      "website_url": "https://olivehospitals.com",
+      "phone": "040 4049 9500"
+    }
+  }
+]

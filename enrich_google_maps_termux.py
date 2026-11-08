@@ -193,7 +193,7 @@ def search_hospital(name: str, area: str = "") -> dict | None:
 
     try:
         goto(url)
-        time.sleep(5)  # Wait for JS render
+        time.sleep(3)  # Reduced from 5 - wait for JS render
         text = get_text()
 
         # Check if we got meaningful results (not just navigation noise)
@@ -204,7 +204,7 @@ def search_hospital(name: str, area: str = "") -> dict | None:
         encoded2 = quote_plus(name)
         url2 = f"https://www.google.com/maps/search/{encoded2}+hospital"
         goto(url2)
-        time.sleep(5)
+        time.sleep(3)  # Reduced from 5
         text2 = get_text()
         if "You've reached the end of the list" not in text2 and len(text2) > 100:
             return extract_fields(text2, name)
@@ -247,7 +247,7 @@ def main():
             for h in enriched_list:
                 enriched[h.get("hospital_name", "")] = h
 
-    # Load progress checkpoint
+    # Resume from checkpoint or start fresh
     start_idx = load_progress()
     print(f"Resuming from index {start_idx} ({len(hospitals)} total hospitals)")
 
@@ -312,7 +312,7 @@ def main():
 
         # Rate limiting
         if i < len(hospitals) - 1:
-            time.sleep(delay)
+            time.sleep(2)  # Reduced from 7 to 2
 
     # Final save
     with open(ENRICHED_JSON, "w") as f:

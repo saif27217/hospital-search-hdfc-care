@@ -321,8 +321,28 @@ def build_cache():
 
     print(f"Total unified records: {len(deduped)}", file=sys.stderr)
 
-    # Save cache
+    # Insurance-overlap mapping: records covered under BOTH networks get a `dual`
+    # pointer to the counterpart record name. insurance_overlap.json is the
+    # deterministic matcher output over (name chain + phone + branch) evidence;
+    # only CONFIRMED pairs are stored there. Pairs whose names are identical match
+    # through the same path.
     cache_dir = Path(CACHE_FILE).parent
+    overlap_path = cache_dir / "insurance_overlap.json"
+    if overlap_path.exists():
+        idx = {}
+        for rec in deduped:
+            idx.setdefault((rec["insurance"], rec["hospital_name"].strip().lower()), rec)
+        n = 0
+        for pair in json.loads(overlap_path.read_text()).get("confirmed", []):
+            a = idx.get(("HDFC Ergo", pair[0].strip().lower()))
+            b = idx.get(("Care Supreme", pair[1].strip().lower()))
+            if a and b:
+                a["dual"] = b["hospital_name"]
+                b["dual"] = a["hospital_name"]
+                n += 1
+        print(f"Marked {n} confirmed overlap pairs (dual)", file=sys.stderr)
+
+    # Save cache
     cache_dir.mkdir(parents=True, exist_ok=True)
     with open(CACHE_FILE, "w") as f:
         json.dump(deduped, f, indent=2, ensure_ascii=False)
@@ -344,9 +364,13 @@ def search(hospitals, insurance=None, area=None, specialty=None,
     """Filter and sort hospitals."""
     results = hospitals
 
-    # Filter by insurance ("hdfc" -> "HDFC Ergo", "care" -> "Care Supreme")
+    # Filter by insurance ("hdfc" -> "HDFC Ergo", "care" -> "Care Supreme",
+    # "both" -> dual-network records carrying a `dual` counterpart pointer)
     if insurance:
-        results = [h for h in results if insurance.lower() in h["insurance"].lower()]
+        if insurance.lower() == "both":
+            results = [h for h in results if h.get("dual")]
+        else:
+            results = [h for h in results if insurance.lower() in h["insurance"].lower()]
 
     # Filter by area (fuzzy match)
     if area:
@@ -391,6 +415,8 @@ def format_results(results, show_contact_only=False):
         dist_str = f"📍 {dist} km" if dist else "📍 Distance N/A"
         print(f"  Hospital: {h['hospital_name']}")
         print(f"  Insurance: {h['insurance']}")
+        if h.get("dual"):
+            print(f"  ⚑ Also listed under the other network as: {h['dual']}")
         print(f"  Area: {h.get('area', '')}")
         print(f"  Specialty: {h.get('specialty', '')}")
         print(f"  Contact: {contact_str}")
@@ -413,7 +439,8 @@ def format_results(results, show_contact_only=False):
         contacts = h.get("contact_number", [])
         contact = contacts[0][:20] if contacts else "N/A"
         recommended = " 🏆" if h.get("is_recommended") else ""
-        print(f"{name:<50} {ins:<12} {area:<18} {rating:<8} {dist:<10} {contact}{recommended}")
+        dualmark = " ⚑" if h.get("dual") else ""
+        print(f"{name:<50} {ins:<12} {area:<18} {rating:<8} {dist:<10} {contact}{recommended}{dualmark}")
 
     print(f"\nShowing {len(results)} result(s).")
     if show_contact_only is False and results:
@@ -432,7 +459,7 @@ def main():
               hospital-search --rebuild
         """)
     )
-    parser.add_argument("--insurance", choices=["hdfc", "care"], help="Filter by insurance provider")
+    parser.add_argument("--insurance", choices=["hdfc", "care", "both"], help="Filter by insurance provider ('both' = hospitals under both networks)")
     parser.add_argument("--area", type=str, help="Filter by area/neighborhood")
     parser.add_argument("--specialty", type=str, help="Filter by specialty (fuzzy, case-insensitive)")
     parser.add_argument("--sort", choices=["distance", "rating", "score", "name"], default="distance",
