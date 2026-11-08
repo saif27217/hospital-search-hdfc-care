@@ -219,10 +219,16 @@ def main():
     else:
         enriched_map = {}
     
-    # Find hospitals that need scraping
+    # Find hospitals that need scraping: not present, OR present but still
+    # missing an address (resume mode). This lets an interrupted scrape resume
+    # for the address-less remainder instead of skipping them.
+    def _has_addr(h, m):
+        r = m.get(h['hospital_name']) or {}
+        return bool(r.get('address') or r.get('full_address'))
+
     needs_scraping = [
         h for h in hospitals
-        if h['hospital_name'] not in enriched_map
+        if h['hospital_name'] not in enriched_map or not _has_addr(h, enriched_map)
     ]
     
     print(f"\nTotal hospitals: {len(hospitals)}")
